@@ -1,7 +1,8 @@
 [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases) instance for Valheim
 
 ## Installation
-- Install MO
+- ([clean Valheim folder](#clean-valheim-folder) from manual installed mods)
+- Install [MO](https://github.com/ModOrganizer2/modorganizer/releases) 
 - Create new (global) Valheim instance
 - Open instance folder (in MO: ![folder icon](MO-folder-icon.png), Open instance folder)
 - Either download and extract a zip of this repo into the instance folder  
@@ -16,8 +17,21 @@
   ```
 - Restart MO
 - Select Weedheim profile
+- Start Valheim through MO
 
 Update changes simply with `git pull` (and restarting MO)
+
+### Clean Valheim folder
+If you installed mods (BepInEx etc.) manually in the game folder, you need to remove the mods bevor starting the game through MO, by removing the following files/folders (all BepInEx files):
+```
+BepInEx
+doorstop_libs
+doorstop_config.ini
+.doorstop_version
+start_game_bepinex.sh
+start_server_bepinex.sh
+winhttp.dll
+```
 
 ## Modlist
 
