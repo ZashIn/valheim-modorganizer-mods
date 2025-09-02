@@ -8,7 +8,7 @@
 +Upgrade World
 +Server devcommands
 -new_separator
-+ValheimRAFT
+-ValheimRAFT
 -bugged_separator
 +Valheim Recycle
 +Tag Connected Portals
