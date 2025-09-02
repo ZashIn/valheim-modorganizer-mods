@@ -3,7 +3,7 @@
 ## Installation
 - Install MO
 - Create new (global) Valheim instance
-- Open instance folder
+- Open instance folder (in MO: ![folder icon](MO-folder-icon.png), Open instance folder)
 - Either download and extract a zip of this repo into the instance folder  
   or use git:
   ```sh
