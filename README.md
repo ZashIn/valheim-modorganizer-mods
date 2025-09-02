@@ -1,3 +1,26 @@
+[Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases) instance for Valheim
+
+## Installation
+- Install MO
+- Create new (global) Valheim instance
+- Open instance folder
+- Either download and extract a zip of this repo into the instance folder  
+  or use git:
+  ```sh
+  # Clone git repo in existing folder
+  git init
+  git remote add origin https://github.com/ZashIn/Valheim-mod-pack.git
+  git fetch
+  git reset origin/master
+  git checkout -t origin/master
+  ```
+- Restart MO
+- Select Weedheim profile
+
+Update changes simply with `git pull` (and restarting MO)
+
+## Modlist
+
 ### Base dependencies
 - [BepInExPack_Valheim](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) v5.4.2333
 - [BepInEx ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) v18.4.1
