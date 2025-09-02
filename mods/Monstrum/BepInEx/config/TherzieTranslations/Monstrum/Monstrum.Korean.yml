@@ -1,0 +1,142 @@
+
+##음식##
+food_foxmeat_TW : "여우 고기"
+food_foxmeat_description_TW : "이 여우는 농부를 속이지 못했습니다."
+food_cookedfoxmeat_TW : "요리된 여우 고기"
+food_cookedfoxmeat_description_TW : "한 입 베어물면 배를 채울 수 있습니다!"
+food_foxjerky_TW : "여우 육포"
+food_foxjerky_description_TW : "꿀로 간을 해서 정신없이 먹게됩니다."
+mat_foxpelt_TW : "여우 가죽"
+mat_foxpeltpelt_description_TW : "여우의 아름답고 장엄한 붉은 가죽입니다."
+piece_rug_fox_TW : "여우 러그"
+
+food_bearsteak_TW : "곰 스테이크"
+food_bearsteak_description_TW : "부드러운 곰 스테이크"
+food_cookedbearsteak_TW : "곰 스테이크"
+food_cookedbearsteak_description_TW : "맛있는 간식을 위해 소금과 후추를 추가하세요!"
+food_bearjerky_TW : "곰 육포"
+food_bearjerky_description_TW : "달콤하고 짜다!"
+food_mixedgrill_TW : "모둠 그릴"
+food_mixedgrill_description_TW : "고기 애호가의 꿈."
+
+##조각##
+piece_rug_blackbear_TW : "흑곰 러그"
+piece_rug_grizzlybear_TW : "그리즐리 러그"
+
+##MOUNTS##
+mount_TW: "마운트"
+saddle_mammoth_TW: "프라이드엄니 안장"
+saddle_mammoth_description_TW: "Pridetusk를 탈 때 사용합니다. 엉덩이를 꼭 잡으세요!"
+saddle_boar_TW: "레이저백 안장"
+saddle_boar_description_TW: "레이저백을 장착하는 데 사용됩니다. 울퉁불퉁할 것입니다!"
+saddle_bear_TW: "곰 안장"
+saddle_bear_description_TW: "곰을 태우는 데 사용됩니다. 짧은 끈으로 묶어두세요!"
+saddle_prowler_TW: "프라울러 안장"
+saddle_prowler_description_TW: "Prowler를 탈 때 사용합니다. 갈기를 잡지 마세요!"
+
+##메도우즈 트로피##
+trophy_fox_TW : "여우 트로피"
+trophy_fox_description_TW : "여우만큼 교활해야만 여우를 잡을 수 있습니다."
+trophy_fox_TW_lore : "여우는 쉬운 먹이를 찾아 초원을 배회합니다."
+##검은 숲 트로피##
+trophy_blackbear_TW : "흑곰 트로피"
+trophy_blackbear_description_TW : "파스타 도둑을 겁주기에 좋은 트로피입니다."
+trophy_blackbear_TW_lore : "검은 곰은 검은 숲을 사냥합니다. 그들은 무시할 수 없는 강력한 사냥꾼입니다."
+trophy_razorback_TW : "흑돼지 트로피"
+trophy_razorback_description_TW : "엄니는 뇌를 뚫을 때까지 계속 자랍니다."
+trophy_razorback_TW_lore : "사나운 레이저백은 위협을 받으면 위험에 직면하여 돌격하는 것으로 알려져 있습니다."
+##스왐프 트로피##
+trophy_crawler_TW : "크롤러 트로피"
+trophy_crawler_TW_lore : "이 괴물 같은 뱀은 적의 눈을 찢어버리기 전에 독을 뱉습니다."
+trophy_crawler_description_TW : "아직도 괴물의 비명소리가 들립니다.."
+trophy_rottingelk_TW : "썩어가는 엘크 트로피"
+trophy_rottingelk_description_TW : "눈을 깜빡이는 게 보이시죠? 구더기인가요?"
+trophy_rottingelk_TW_lore : "이 언데드 엘크들은 늪지의 독가스를 가죽으로 흡수했습니다."
+##마운틴 트로피##
+trophy_grizzlybear_TW : "그리즐리 트로피"
+trophy_grizzlybear_description_TW : "미드 홀에 전시되어 있는 가치 있는 사냥꾼 트로피입니다."
+trophy_grizzlybear_TW_lore : "회색곰이 산맥을 순찰합니다. 모든 바이킹이 살아서 바이킹을 만난 이야기를 전하는 것은 아닙니다."
+trophy_obsidiangolem_TW : "흑요석 골렘 트로피"
+trophy_obsidiangolem_description_TW : "검은 화산 유리는 아름답고 날카롭습니다."
+trophy_obsidiangolem_TW_lore : "산의 날카로운 흑요석 골렘은 먹이를 꿰뚫습니다."
+##PLAINS##
+trophy_prowler_TW : "배회자 트로피"
+trophy_prowler_TW_lore : "그들은 먹이를 찾아 사바나를 스토킹합니다. 이 고양이과 동물들은 '마지막 그림자'라는 정당한 칭호를 얻었습니다."
+trophy_prowler_description_TW : "이 고양이가 당신의 소파를 긁지 않도록 하는 것이 좋습니다.."
+##몬스터##
+
+##초원##
+fox_TW : "여우"
+foxcub_TW : "새끼 여우"
+
+##블랙포레스트##
+blackbear_TW : "흑곰"
+blackbearcub_TW : "새끼 흑곰"
+razorback_TW : "흑돼지"
+razorbackpiglet_TW : "새끼 흑돼지"
+##늪##
+rottingelk_TW : "썩어가는 엘크"
+crawler_TW : "크롤러"
+prowler_TW : "배회자"
+prowlercub_TW: "배회 새끼"
+##산##
+grizzlybear_TW : "그리즐리베어"
+grizzlybearcub_TW : "새끼 그리즐리베어"
+obsidiangolem_TW : "흑요석 골렘"
+
+##BOSS ASMODEUS##
+trophy_asmodeus_TW : "아스모데우스 트로피"
+trophy_asmodeus_description_TW : "죽은 상태에서도 최면을 거는 듯한 눈빛.."
+trophy_asmodeus_TW_lore : "Asmodeus는 Loki 신의 하인이며 독사 군주 중 한 명으로서 Hel의 영역을 감시합니다."
+boss_asmodeus_TW : "아스모데우스"
+deadspeak_asmodeus: "저주받은 필멸자.. 내 포아슨이 당신의 정맥에서 썩을 수 있습니다!"
+asmodeus_summon : "굶주린 자를 깨우셨습니다.."
+asmodeus_defeat : "당신은 굶주린 자를 물리쳤습니다!"
+altar_asmodeus_TW: "고대 바이퍼 해골"
+altar_asmodeus_description_TW: "배고픈 자에게 도전하십시오.."
+
+##SVALT##
+trophy_svalt_TW : "스발트 트로피"
+trophy_svalt_description_TW : "두개골에서는 아직도 독액이 흘러나오고있다.."
+trophy_svalt_TW_lore : "스발트는 수르트로 인해 봉인되어 있었다. 과거로부터 그는 잠든이의 꿈을 먹는 꿈의 포식자로 알려져있다."
+boss_svalt_TW : "스발트"
+deadspeak_svalt : "너의 공포를 느낄수 있어.. 날 해방시켜줘. 그리고 나와함께 이세상을 불태워버리자!"
+svalt_summon : "당신은 고대의 악마를 해방시켰습니다!"
+svalt_defeat : "꿈의 포식자를 정복했습니다!"
+damnedskeleton_TW : "타오르는 갈증"
+altar_svalt_TW: "봉인된 블러드 매직"
+altar_svalt_description_TW: "꿈의 포식자를 해방시킨다."
+runestone_svalt_TW : "꿈의 포식자.."
+runestone_svalt_description_TW : "오래전 회색 난쟁이들은 밤을 두려워했습니다. 밤의 포식자 스발트가 어둠속에 숨어 그들을 지켜본다고 느꼈기때문이죠. 이에 주술사는 그를 수르트세계로 추방하기위해 피의 마법이란것을 사용했습니다. "
+mappin_svalt_TW : "스발트"
+location_svalt : "의식의 공간"
+
+gdancientshaman_TW : "고대 주술사"
+ancientroot_TW : "고대의 뿌리"
+ancientshaman_speech1 : "갈! 감히 신성한곳에 그 더러운 발을 들이다니!"
+ancientshaman_speech2 : "꿈의 포식자 스발트! 그대는 이곳에 영원히 봉인될지어다!"
+
+##VRYKOLATHAS##
+boss_vrykolathas_TW : "브리콜라타스"
+deadspeak_vrykolathas : "그들이 분노로 절규하는 소리가 들리지않나요? 그들이 당신을 지하세계로 부르고있어요!"
+vrykolathas_summon : "헬의 투사를 소환했습니다.."
+vrykolathas_defeat : "지하세계의 공포를 잠재웠습니다!"
+damnedsummon_TW : "저주받은 영혼"
+helwraith_TW : "헬의 망령"
+altar_vrykolathas_TW: "헬의 화로"
+altar_vrykolathas_description_TW: "죽음의 신에게 도전한다.."
+runestone_vrykolathas_TW : "망령의 비석"
+runestone_vrykolathas_description_TW : "지하세계로 추방된 헬은 언데드 세력을 장악하고 그들을 지휘한다. 그녀를 위해 망령들은 하늘을 배회하며 떠도는 영혼들을 잡아들인다."
+mappin_vrykolathas_TW : "브리콜라타스"
+trophy_vrykolathas_TW : "브리콜라타스 트로피"
+trophy_vrykolathas_description_TW : "소용돌이치는 안개속에서의 공허함이 당신을 혼란스럽게 만듭니다 . "
+trophy_vrykolathas_TW_lore : "사후세계를 지배하는 브리콜라타스. 그녀에게 복종하는 헬의 투사는 그녀에게 수많은 영혼을 받쳤습니다."
+
+##BOSS LOCATIONS##
+vegvisir_TW : "베그비실"
+
+##SE EFFECTS##
+se_monstrum_pincer_TW : "홀드"
+se_monstrum_scorpidsting_TW : "전갈 독액"
+se_monstrum_bitestun_TW : "스턴"
+se_monstrum_biteslow_TW : "느려짐"

@@ -1,0 +1,141 @@
+##MOUNT##
+mount_TW: "Monta"
+saddle_boar_TW: "Sella Razorback"
+saddle_boar_description_TW: "Utilizzato per montare un Razorback, sarà un viaggio accidentato!"
+saddle_bear_TW: "Sella dell'orso"
+saddle_bear_description_TW: "Usato per montare qualsiasi orso, tienilo al guinzaglio corto!"
+saddle_prowler_TW: "Sella del predatore"
+saddle_prowler_description_TW: "Usato per montare un Prowler, non afferrarlo per la criniera!"
+
+##FOOD##
+food_foxmeat_TW : "Carne di Volpe cruda"
+food_foxmeat_description_TW : "Questa volpe non è arrivata all'uva... viva."
+food_cookedfoxmeat_TW : "Carne di Volpe cotta"
+food_cookedfoxmeat_description_TW : "Un boccone sazia l'appetito di un uomo adulto."
+food_foxjerky_TW : "Carne secca di Volpe"
+food_foxjerky_description_TW : "Aromatizzata al miele, per darti una spinta in più!"
+food_bearsteak_TW : "Bistecca di Orso cruda"
+food_bearsteak_description_TW : "Una tenera bistecca di orsetto."
+food_cookedbearsteak_TW : "Bistecca di Orso cotta"
+food_cookedbearsteak_description_TW : "Sale e pepe quanto basta, per un sapore unico!"
+food_bearjerky_TW : "Carne secca di Orso"
+food_bearjerky_description_TW : "Dolce e salata!"
+food_mixedgrill_TW : "Grigliata mista"
+food_mixedgrill_description_TW : "'Na braciata mista, 'na grigliata, una pasquetta in miniatura..."
+food_rottenelkmeat_TW : "Carne di cervo marcescente"
+food_rottenelkmeat_description_TW : "Solo il suo aroma ti torce le budella."
+
+##PIECES##
+piece_rug_blackbear_TW : "Teppeto di orso nero"
+piece_rug_grizzlybear_TW : "Teppeto di orso Grizzly"
+piece_rug_rotten_TW : "Tappeto putrido"
+piece_rug_fox_TW : "Teppeto di volpe"
+
+##ITEMS##
+mat_foxpelt_TW : "Pelliccia di volpe"
+mat_foxpeltpelt_description_TW : "Magnifica, bellissima, elegante pelliccia di volpe."
+
+##MEADOWS TROPHIES##
+trophy_fox_TW : "Trofeo di volpe"
+trophy_fox_description_TW : "La volpe non è arrivata all'uva, ma tu sei arrivato a lei."
+trophy_fox_TW_lore : "Le volpi sgattaiolano nelle praterie, in cerca di una preda facile."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "Trofeo di orso nero"
+trophy_blackbear_description_TW : "A great trophy to scare off pasta thieves."
+trophy_blackbear_TW_lore : "The black bears hunt the Black Forest, they are formidable hunters that should not be underestimated."
+trophy_razorback_TW : "Trofeo di Dorsolama"
+trophy_razorback_description_TW : "Le zanne continuano a crescere fino a conficcarsi nel cranio."
+trophy_razorback_TW_lore : "I fieri Dorsolama caricano qualunque minaccia senza esitare."
+##SWAMP TROPHIES##
+trophy_crawler_TW : "Trofeo del crawler"
+trophy_crawler_TW_lore : "Queste mostruose serpentine sputano veleno negli occhi dei loro nemici prima che li facciano a pezzi."
+trophy_crawler_description_TW : "Puoi ancora sentire le sue urla mostruose.."
+trophy_rottingelk_TW : "Trofeo di cervo marcescente"
+trophy_rottingelk_description_TW : "I suoi occhi sembrano muoversi, o e una larva?"
+trophy_rottingelk_TW_lore : "Questi cervi non morti hanno assorbito gli effluvi dell'acquitrinio nella loro pelle."
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "Trofeo di orso Grizzly"
+trophy_grizzlybear_description_TW : "Il trofeo perfetto per accompagnare le tue storie di grande cacciatore, affisso in salone."
+trophy_grizzlybear_TW_lore : "I grizzly pattugliano le vette delle montagne, ma non molti vichinghi sopravvivono per raccontare di averne incontrato uno."
+trophy_obsidiangolem_TW : "Trofeo di Golem di Ossidiana"
+trophy_obsidiangolem_description_TW : "Vetro scuro, affilato e resistente."
+trophy_obsidiangolem_TW_lore : "I golem di ossidiana, perfetti e affilati, trafiggono ciò che ne attira l'attenzione."
+##PLAINS TROPHIES##
+trophy_prowler_TW : "Trofeo del predatore"
+trophy_prowler_TW_lore : "Inseguono la savana in cerca di prede, questi felini si sono guadagnati il legittimo titolo di 'Ultima ombra'."
+trophy_prowler_description_TW : "Meglio che questo gattino non ti graffi il divano.."
+##MONSTERS##
+##MEADOWS##
+fox_TW : "Volpe"
+foxcub_TW : "Cucciolo di Volpe"
+##BLACKFOREST##
+blackbear_TW : "Orso nero"
+blackbearcub_TW : "Cucciolo di orso nero"
+razorback_TW : "Dorsolama"
+razorbackpiglet_TW : "Piccolo di dorsolama"
+##SWAMP##
+crawler_TW : "Crawler"
+rottingelk_TW : "Cervo marcescente"
+##MOUNTAINS##
+grizzlybear_TW : "Orso Grizzly"
+grizzlybearcub_TW : "Cucciolo di Grizzly"
+obsidiangolem_TW : "Golem di Ossidiana"
+##PLAINS##
+prowler_TW : "Predatore"
+prowlercub_TW: "Cucciolo predatore"
+##OCEAN##
+
+##BOSS LOCATION##
+vegvisir_TW : "Vegvisir"
+
+##ASMODEUS##
+trophy_asmodeus_TW : "Trofeo Asmodeus"
+trophy_asmodeus_description_TW : "Anche da morto il suo sguardo è ipnotizzante.."
+trophy_asmodeus_TW_lore : "Asmodeus è un servitore del dio Loki, come uno dei signori delle vipere, sorveglia i regni di Hel."
+boss_asmodeus_TW : "Asmodeus"
+deadspeak_asmodeus : "Maledetto mortale.. possa il mio poisssson marcire nelle tue vene!"
+asmodeus_summon : "Hai risvegliato l'affamato.."
+asmodeus_defeat : "Hai sconfitto l'affamato!"
+altar_asmodeus_TW: "Antico teschio di vipera"
+altar_asmodeus_description_TW: "Sfida l'affamato.."
+
+##VRYKOLATHAS##
+boss_vrykolathas_TW: "Vrykolathas"
+deadspeak_vrykolathas: "Riesci a sentire le loro urla ossessionanti? Ti stanno implorando di unirti a loro negli inferi mortali!"
+vrykolathas_summon: "Hai evocato il campione di Hel..."
+vrykolathas_defeat: "Hai sconfitto l'oscurità di Niflheim!"
+maledetto summon_TW: "Anima dannata"
+altar_vrykolathas_TW: "Il braciere di Hel"
+altar_vrykolathas_description_TW: "Sfida la dea della morte..."
+runestone_vrykolathas_TW: "Il fantasma"
+runestone_vrykolathas_description_TW: "Esiliata per governare gli inferi di Niflheim, Hel comanda una forza inesauribile di mostruosità non morte. I suoi agenti wraith vagano per i cieli, alla ricerca di anime perdute da reclamare come sue."
+mappin_vrykolathas_TW: "Vrykolathas"
+Helwraith_TW: "Spettro infernale"
+trophy_vrykolathas_TW: "Trofeo Vrykolathas"
+trophy_vrykolathas_description_TW: "Il suo sguardo divaga la tua mente nelle vorticose nebbie del vuoto."
+trophy_vrykolathas_TW_lore: "Vrykolathas è il precursore deldea della morte stessa. Il campione di Hel ha raccolto e reclamato molte anime in leionore."
+
+##SVALT##
+trophy_svalt_TW : "Trofeo Svält"
+trophy_svalt_description_TW : "Il veleno gocciola ancora dal cranio del mostro.."
+trophy_svalt_TW_lore : "Svält è stato rinchiuso nel regno di Surtr. Era conosciuto come il divoratore di sogni, che perseguitava le notti nel vecchio mondo."
+boss_svalt_TW : "Svält"
+deadspeak_svalt : "Posso assaporare la tua paura mortale.. liberami e daremo fuoco a questo mondo insieme!"
+svalt_summon : "Hai liberato un antico male!"
+svalt_defeat : "Hai sconfitto il divoratore di sogni!"
+damnedskeleton_TW : "Fame ardente"
+altar_svalt_TW: "Sigillo magico di sangue"
+altar_svalt_description_TW: "Libera il divoratore di sogni.."
+runestone_svalt_TW : "Il divoratore di sogni.."
+runestone_svalt_description_TW : "Nei tempi antichi, i nani grigi temevano di uscire al crepuscolo perché nell'oscurità si nascondeva Svält, il divoratore di sogni.. gli sciamani usavano la magia del sangue per bandirlo nel regno di Surtr."
+mappin_svalt_TW : "Svält"
+location_svalt : "Camera rituale"
+gdancientshaman_TW : "Antico sciamano"
+ancientroot_TW : "Radice antica"
+ancientshaman_speech1 : "Come osi mettere piede su queste sacre terre mortali!"
+ancientshaman_speech2 : "Il divoratore di sogni rimarrà sigillato lontano da questo regno!"
+
+se_monstrum_pincer_TW : "A tenaglia"
+se_monstrum_scorpidsting_TW : "Veleno di scorpione"
+se_monstrum_bitestun_TW : "Appuntato"
+se_monstrum_biteslow_TW : "Storpio"

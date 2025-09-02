@@ -1,0 +1,171 @@
+## POLISH TRANSLATION MONSTRUM##
+vegvisir_TW: "Vegvisir"
+
+##MOUNT##
+saddle_boar_TW: "Siodło dla Odyńca"
+saddle_boar_description_TW: "Używane do jazdy na Odyńcu, będzie to burzliwa przejażdżka!"
+saddle_bear_TW: "Siodło dla Niedźwiedzia"
+saddle_bear_description_TW: "Używane do jazdy na dowolnym niedźwiedziu, trzymaj go na krótkiej smyczy!"
+saddle_prowler_TW: "Siodło dla Pantery"
+saddle_prowler_description_TW: "Używane do jazdy na Panterze, nie chwyć jej za grzywę!"
+mount_TW: "Dosiądź"
+
+##PIECES##
+piece_rug_rotten_TW: "Zgniły dywan"
+piece_rug_blackbear_TW: "Dywan z czarnego niedźwiedzia"
+piece_rug_grizzlybear_TW: "Dywan z niedźwiedzia Grizzly"
+piece_rug_fox_TW: "Dywan z lisa"
+
+##ITEMS##
+mat_foxpelt_TW: "Skóra lisa"
+mat_foxpeltpelt_description_TW: "Piękna, majestatyczna czerwona skóra lisa."
+
+##MEADOWS TROPHIES##
+trophy_fox_TW: "Trofeum lisa"
+trophy_fox_description_TW: "Złapiesz lisa tylko będąc równie chytrym jak on."
+trophy_fox_TW_lore: "Lisy grasują po łąkach, szukając łatwego posiłku."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW: "Trofeum czarnego niedźwiedzia"
+trophy_blackbear_description_TW: "Wspaniałe trofeum, które odstraszy złodziei makaronu."
+trophy_blackbear_TW_lore: "Czarne niedźwiedzie polują na Czarnym Lesie, są godnymi uwagi myśliwymi, których nie należy lekceważyć."
+trophy_razorback_TW: "Trofeum Odyńca"
+trophy_razorback_description_TW: "Kły rosną, aż przebiją mózg."
+trophy_razorback_TW_lore: "Zaciekłe Odyńce są znane z atakowania w obliczu niebezpieczeństwa."
+##SWAMP TROPHIES##
+trophy_rottingelk_TW: "Trofeum zgniłego rogacza"
+trophy_rottingelk_description_TW: "Widzisz, jak mu drgają oczy, czy to robak?"
+trophy_rottingelk_TW_lore: "Te nieumarłe łosie wchłonęły trujące opary Bagien w swoje futra."
+trophy_crawler_TW: "Trofeum Pełzacza"
+trophy_crawler_description_TW: "Słychać jeszcze jego monstrualne krzyki..."
+trophy_crawler_TW_lore: "Te potworne węże plują trucizną w oczy swoich wrogów, zanim rozszarpią ich na strzępy."
+##PLAINS TROPHIES##
+trophy_prowler_TW: "Trofeum Pantery"
+trophy_prowler_description_TW: "Lepiej nie pozwól, aby ten kot zadrapał twoją sofę..."
+trophy_prowler_TW_lore: "Polują na sawannie w poszukiwaniu zdobyczy, te koty zasłużyły na swoje zaszczytne miano 'Ostatniego cienia'."
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW: "Trofeum niedźwiedzia Grizzly"
+trophy_grizzlybear_description_TW: "Wartościowe myśliwskie trofeum do powieszenia na wystawie w głównym holu."
+trophy_grizzlybear_TW_lore: "Grizzly patrolują pasma górskie, nie każdy wiking ma szczęście przeżyć, aby opowiedzieć historię spotkania z jednym z nich."
+trophy_obsidiangolem_TW: "Trofeum Obsydianowego golema"
+trophy_obsidiangolem_description_TW: "Ciemne wulkaniczne szkło jest zarówno piękne, jak i ostre."
+trophy_obsidiangolem_TW_lore: "Obsydianowe golemy z gór przebijają swoją zdobycz."
+##OCEAN##
+trophy_shark_TW : "Trofeum żarłacza krwawego"
+trophy_shark_description_TW : "Będziemy potrzebować większej łodzi."
+trophy_shark_TW_lore : "Wystarczy kropla krwi, by te potworne drapieżniki znalazły swoją ofiarę."
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW: "Lis"
+foxcub_TW: "Młody lis"
+##BLACKFOREST##
+blackbear_TW: "Czarny niedźwiedź"
+blackbearcub_TW: "Młody czarny niedźwiedź"
+razorback_TW: "Odyniec"
+razorbackpiglet_TW: "Młody Odyniec"
+##SWAMP##
+rottingelk_TW: "Gnijący Rogacz"
+crawler_TW: "Pełzacz"
+helwraith_TW: "Zjawa Heli"
+##MOUNTAINS##
+grizzlybear_TW: "Grizzly"
+grizzlybearcub_TW: "Młody Grizzly"
+obsidiangolem_TW: "Obsydianowy golem"
+##PLAINS##
+prowler_TW: "Pantera"
+prowlercub_TW: "Młoda Pantera"
+##OCEAN##
+shark_TW : "Żarłacz krwawy"
+
+##ASMODEUS BOSS##
+asmodeus_discover_TW: "Świątynia Plugawego Języka"
+trophy_asmodeus_TW: "Trofeum Asmodeusa"
+trophy_asmodeus_description_TW: "Nawet po śmierci jego spojrzenie jest hipnotyzujące..."
+trophy_asmodeus_TW_lore: "Asmodeus to sługa boga Lokiego, jako jeden z władcy żmijów, czuwa nad bramami do krainy Hel."
+boss_asmodeus_TW: "Asmodeus"
+deadspeak_asmodeus: "Przeklęty śmiertelniku... niech moja trucizna gnije w twoich żyłach!"
+asmodeus_summon: "Obudziłeś wygłodniałego.."
+asmodeus_defeat: "Pokonałeś wygłodniałego!"
+altar_asmodeus_TW: "Starożytna czaszka żmija"
+altar_asmodeus_description_TW: "Wyzwanie wygłodniałego..."
+runestone_asmodeus_TW: "Wygłodniały"
+runestone_asmodeus_description_TW: "Starożytne żmije były znane ze swojego niezaspokojonego głodu, Niksy prawie wymarły, gdy te potwory grasowały po świecie Valheim."
+mappin_asmodeus_TW: "Asmodeus"
+
+##SVALT BOSS##
+svalt_discover_TW: "Starożytny grobowiec"
+trophy_svalt_TW: "Trofeum Svalta"
+trophy_svalt_description_TW: "Jad wciąż kapie z czaszki potwora..."
+trophy_svalt_TW_lore: "Svält został uwięziony w krainie Surtra. Znany był jako pożeracz snów, grasujący nocami w starym świecie."
+boss_svalt_TW: "Svält"
+deadspeak_svalt: "Czuję twój strach śmiertelniku... uwolnij mnie, a wspólnie podpalimy ten świat!"
+svalt_summon: "Uwolniłeś starożytne zło!"
+svalt_defeat: "Pokonałeś pożeracza snów!"
+damnedskeleton_TW: "Palący głód"
+altar_svalt_TW: "Pieczęć magii krwi"
+altar_svalt_description_TW: "Uwolnij pożeracza snów..."
+runestone_svalt_TW: "Pożeracz snów..."
+runestone_svalt_description_TW: "W dniach dawnych szarzeły lękały się wychodzić o zmierzchu, gdyż w ciemności czaił się Svält, pożeracz snów... szamani użyli magii krwi, aby go zesłać do krainy Surtra."
+mappin_svalt_TW: "Svält"
+location_svalt: "Komora rytualna"
+gdancientshaman_TW: "Starożytny szaman"
+ancientroot_TW: "Starożytny korzeń"
+ancientshaman_speech1: "Jak śmiesz stąpać po tych świętych ziemiach, śmiertelniku!"
+ancientshaman_speech2: "Pożeracz snów pozostanie zamknięty z dala od tej krainy!"
+
+##VRYKOLATHAS BOSS##
+vrykolathas_discover_TW: "Hołd dla Heli"
+trophy_vrykolathas_TW: "Trofeum Vrykolathasa"
+trophy_vrykolathas_description_TW: "Jego spojrzenie przenosi twój umysł w wirujące mgły pustki."
+trophy_vrykolathas_TW_lore: "Vrykolathas to zwiastun samej bogini śmierci. Jej mistrz śmierci pochłonął i zebrał wiele dusz w jej imieniu."
+boss_vrykolathas_TW: "Vrykolathas"
+deadspeak_vrykolathas: "Czy słyszysz ich nawiedzające krzyki? Błagają cię, byś dołączył do nich w zaświatach, śmiertelniku!"
+vrykolathas_summon: "Wezwałeś mistrza Heli..."
+vrykolathas_defeat: "Pokonałeś ciemność z Niflheim!"
+damnedsummon_TW: "Przeklęta dusza"
+altar_vrykolathas_TW: "Kocioł Heli"
+altar_vrykolathas_description_TW: "Wyzwanie bogini śmierci..."
+runestone_vrykolathas_TW: "Zjawa"
+runestone_vrykolathas_description_TW: "Wypędzony, aby panować nad zaświatami Niflheim, Hel dowodzi nigdy nieustającą siłą nieumarłych monstrów. Jej agenci wędrują po niebie, szukając zagubionych dusz, by zabrać je jako swoje własne."
+mappin_vrykolathas_TW: "Vrykolathas"
+
+##SE##
+se_monstrum_bitestun_TW: "Przybity"
+se_monstrum_biteslow_TW: "Kaleki"
+se_monstrum_pincer_TW: "Zaciśnięty"
+se_monstrum_scorpidsting_TW: "Jad skorpiona"
+se_monstrum_chompstun_TW : "Rozgryziony"
+se_monstrum_rupturedslow_TW : "Rozerwany"
+
+##FOOD##
+food_rottenelkmeat_TW: "Zgniłe mięso rogacza"
+food_rottenelkmeat_description_TW: "Sam zapach sprawia, że żołądek odwraca się do góry nogami."
+food_foxmeat_TW: "Surowe mięso lisa"
+food_foxmeat_description_TW: "Ten lis nie zdołał oszukać rolnika."
+food_cookedfoxmeat_TW: "Upieczone mięso lisa"
+food_cookedfoxmeat_description_TW: "Jeden mały kęs wypełnia żołądek człowieka!"
+food_foxjerky_TW: "Suszone mięso z lisa"
+food_foxjerky_description_TW: "Przyprawione miodem, żeby trzymać cię na nogach!"
+food_bearsteak_TW: "Surowy stek niedźwiedzia"
+food_bearsteak_description_TW: "Kawałek delikatnego mięsa niedźwiedzia."
+food_cookedbearsteak_TW: "Upieczony stek niedźwiedzia"
+food_cookedbearsteak_description_TW: "Dodaj sól i pieprz dla pysznego smaku!"
+food_bearjerky_TW: "Suszone mięso z niedźwiedzia"
+food_bearjerky_description_TW: "Słodko i słono!"
+food_mixedgrill_TW: "Mieszanka grillowanych mięs"
+food_mixedgrill_description_TW: "Marzenie miłośnika mięsa."
+food_sharkfinsoup_TW: "Zupa z płetw krwawego rekina"
+food_sharkfinsoup_description_TW: "Słona i pikantna zupa, która wlewa w ciebie moc krwi."
+food_sharkfinsoup_SE: "Wykrwawianie"
+food_sharkfinsoup_SE_description: "Wypełnia brzuch i zwiększa umiejętność magii krwi."
+food_sharkmeat_TW : "Mięso rekina"
+food_sharkmeat_description_TW : "Krwisty kawałek słonego mięsa rekina."
+food_cookedsharkmeat_TW : "Gotowane mięso rekina"
+food_cookedsharkmeat_description_TW : "Stek z morza, nie możesz się powstrzymać od ślinienia się."
+food_sharkfin_TW : "Płetwa rekina"
+food_sharkfin_description_TW : "Można z nich zrobić pyszną zupę, a może nawet zapoczątkować handel zagrażający gatunkowi..."
+
+##RAVEN##
+BossStones_topic_TW: "Odkryłeś miejsce mocy!"
+BossStones_text_TW: "Starożytna magia przebywa tutaj, być może bogowie obdarzą cię swoim błogosławieństwem za godną ofiarę?"

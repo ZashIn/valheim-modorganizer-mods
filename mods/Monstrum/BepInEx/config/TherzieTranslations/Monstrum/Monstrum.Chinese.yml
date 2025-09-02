@@ -1,0 +1,172 @@
+## ENGLISH TRANSLATION MONSTRUM##
+vegvisir_TW : "导向符文石"
+
+##MOUNT##
+saddle_boar_TW: "野猪鞍"
+saddle_boar_description_TW: "用来骑上暗黑山林的野猪，這將是一次顛簸的旅程！"
+saddle_bear_TW: "熊鞍"
+saddle_bear_description_TW: "用来骑上任何熊，用短皮带拴住它！"
+saddle_prowler_TW: "美洲狮的鞍"
+saddle_prowler_description_TW: "用来骑上徘徊者，不要抓住它的鬃毛！"
+mount_TW: "骑乘"
+
+##PIECES##
+piece_rug_rotten_TW : "尸鬼地毯"
+piece_rug_blackbear_TW : "黑熊皮地毯"
+piece_rug_grizzlybear_TW : "灰熊皮地毯"
+piece_rug_fox_TW : "狐狸皮地毯"
+
+##ITEMS##
+mat_foxpelt_TW : "狐皮"
+mat_foxpeltpelt_description_TW : "美丽、雄伟的红色狐狸毛皮。"
+
+##MEADOWS TROPHIES##
+trophy_fox_TW : "狐狸的战利品"
+trophy_fox_description_TW : "只有像狐狸一样狡猾才能捉到狐狸。"
+trophy_fox_TW_lore : "狐狸在草地上四处游荡，寻找一顿简单的饭菜。"
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "黑熊的战利品"
+trophy_blackbear_description_TW : "一个伟大的战利品，可以吓跑小偷。"
+trophy_blackbear_TW_lore : "黑熊在黑暗林山是强大的存在，可不要低估它呀。"
+trophy_razorback_TW : "野猪的战利品"
+trophy_razorback_description_TW : "獠牙不断生长，直到刺穿大脑。"
+trophy_razorback_TW_lore : "众所周知，凶猛的野猪在受到威胁时，会拼命反击。"
+##SWAMP TROPHIES##
+trophy_rottingelk_TW : "腐臭麋鹿的战利品"
+trophy_rottingelk_description_TW : "你看到它的眼睛里有东西在动么？那是蛆吗？"
+trophy_rottingelk_TW_lore : "这些不死的麋鹿在它们的皮毛中吸收了沼泽地的毒气。"
+trophy_crawler_TW: "毒蟒的战利品"
+trophy_crawler_description_TW: "你仍然可以聽到它可怕的尖叫聲……"
+trophy_crawler_TW_lore: "这些巨大的毒蛇在将敌人撕裂之前向他們的眼睛吐毒液。"
+##PLAINS TROPHIES##
+trophy_prowler_TW : "美洲狮的战利品"
+trophy_prowler_description_TW : "最好别让这只小猫抓你的沙发.."
+trophy_prowler_TW_lore : "它们在草原中悄悄潜伏，寻找猎物。这些猫科动物赢得了它们应有的荣耀之名。"
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "灰熊的战利品"
+trophy_grizzlybear_description_TW : "值得猎人挂在酒馆里展示的战利品。"
+trophy_grizzlybear_TW_lore : "灰熊在山脉中游荡，不是每个维京人都能活着讲述遇到灰熊的故事。"
+trophy_obsidiangolem_TW : "黑曜石石魔哥伦的战利品"
+trophy_obsidiangolem_description_TW : "黑曜石石魔哥伦的核心，美丽又锋利。"
+trophy_obsidiangolem_TW_lore : "山脉中锋利的黑曜石魔像刺穿了它们的猎物。"
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "狐狸"
+foxcub_TW : "狐狸幼崽"
+##BLACKFOREST##
+blackbear_TW : "黑熊"
+blackbearcub_TW : "黑熊幼崽"
+razorback_TW : "野猪"
+razorbackpiglet_TW : "野猪幼崽"
+##SWAMP##
+rottingelk_TW : "腐臭麋鹿"
+crawler_TW : "毒蟒"
+helwraith_TW : "冥府幽灵"
+##MOUNTAINS##
+grizzlybear_TW : "灰熊"
+grizzlybearcub_TW : "灰熊幼崽"
+obsidiangolem_TW : "黑曜石石魔哥伦"
+##PLAINS##
+prowler_TW : "美洲狮"
+prowlercub_TW: "美洲狮幼崽"
+##OCEAN##
+shark_TW : "血鲨"
+trophy_shark_TW : "血鲨战利品"
+trophy_shark_description_TW : "我们可能需要更大的船.."
+trophy_shark_TW_lore : "一滴血就可以让这些可怕的掠食者找到猎物所需要的一切."
+
+##ASMODEUS BOSS##
+asmodeus_discover_TW : "瘟疫领主的祭祀所"
+trophy_asmodeus_TW : "阿斯莫德的战利品"
+trophy_asmodeus_description_TW : "死亡之眼，催眠之力。"
+trophy_asmodeus_TW_lore : "阿斯莫德，洛基的忠实仆从，作为毒蛇领主，他守卫通往冥界赫尔领域的通道。"
+boss_asmodeus_TW : "阿斯莫德"
+deadspeak_asmodeus : "被诅咒的凡人…愿我的毒液在你的血脉中肆虐！"
+asmodeus_summon : "你唤醒了饥饿者…"
+asmodeus_defeat : "你击败了饥饿者！"
+altar_asmodeus_TW: "古蛇之颅"
+altar_asmodeus_description_TW: "挑战阿斯莫德..."
+runestone_asmodeus_TW : "饥饿者"
+runestone_asmodeus_description_TW : "古蛇一族因饥饿而几近灭绝，当这些怪物在世界中游荡时，它们的数量几近归零。"
+mappin_asmodeus_TW : "阿斯莫德"
+
+##SVALT BOSS##
+svalt_discover_TW : "古墓"
+trophy_svalt_TW : "斯瓦特的战利品"
+trophy_svalt_description_TW : "怪物的头骨上仍留有毒液痕迹..."
+trophy_svalt_TW_lore : "斯瓦特被封印在苏尔特的领域，他被称为梦魇，曾肆虐于旧世界。"
+boss_svalt_TW : "斯瓦特"
+deadspeak_svalt : "我能感受到你心中的恐惧，凡人... 释放我，我们将共同征服这个世界！"
+svalt_summon : "你已唤醒远古恶灵！"
+svalt_defeat : "你已击败梦魇！"
+damnedskeleton_TW : "燃火饥渴者"
+altar_svalt_TW: "血魔法封印"
+altar_svalt_description_TW: "释放梦魇..."
+runestone_svalt_TW : "梦魇"
+runestone_svalt_description_TW : "在远古时代，灰矮人畏惧黄昏，因为梦魇在暗中蠢蠢欲动。巫师们用血魔法将其封印在苏尔特的领域。"
+mappin_svalt_TW : "斯瓦特"
+location_svalt : "仪式之地"
+gdancientshaman_TW : "远古灰矮人萨满"
+ancientroot_TW : "远古之根"
+ancientshaman_speech1 : "凡人,你竟敢踏足这片神圣之地!"
+ancientshaman_speech2 : "梦魇将永世被封印于此！"
+
+##VRYKOLATHAS BOSS##
+vrykolathas_discover_TW : "赫尔准备的贡品"
+trophy_vrykolathas_TW : "弗雷科拉斯的战利品"
+trophy_vrykolathas_description_TW : "其凝视将你的思绪缠绕于虚空漩涡之中。 "
+trophy_vrykolathas_TW_lore : "弗雷科拉斯，死亡女神的化身。赫尔的战士们为了祭祀她而夺取了无数灵魂。"
+boss_vrykolathas_TW : "弗雷科拉斯"
+deadspeak_vrykolathas : "你能听到那令人胆寒的尖叫声吗？那是来自冥界的要邀约，凡人！"
+vrykolathas_summon : "你已唤醒死亡女神的化身，弗雷科拉斯。"
+vrykolathas_defeat : "你已经战胜了来冥界的黑暗！"
+damnedsummon_TW : "被诅咒的灵魂"
+altar_vrykolathas_TW: "冥界的遗物"
+altar_vrykolathas_description_TW: "挑战象征死亡的女神.."
+runestone_vrykolathas_TW : "幻影"
+runestone_vrykolathas_description_TW : "被放逐至冥界，赫尔指挥着不死军团。她的幽灵手下在天空中徘徊，寻找迷失的灵魂，献给自己的主人"
+mappin_vrykolathas_TW : "弗雷科拉斯"
+
+##SE##
+se_monstrum_bitestun_TW : "被钉刺"
+se_monstrum_biteslow_TW : "残废"
+se_monstrum_pincer_TW : "被钳住"
+se_monstrum_scorpidsting_TW : "蝎毒"
+
+##FOOD##
+food_rottenelkmeat_TW : "腐臭麋鹿的肉"
+food_rottenelkmeat_description_TW : "光是恶臭就让你胃里翻江倒海。"
+food_foxmeat_TW : "生狐狸肉"
+food_foxmeat_description_TW : "这只狐狸没能骗过农夫。"
+food_cookedfoxmeat_TW : "熟狐狸肉"
+food_cookedfoxmeat_description_TW : "一小口就能填满一个人的胃！"
+food_foxjerky_TW : "狐狸肉干"
+food_foxjerky_description_TW : "用蜂蜜调味，让你保持警惕！"
+food_bearsteak_TW : "生熊排"
+food_bearsteak_description_TW : "一大块嫩熊排"
+food_cookedbearsteak_TW : "烤熟的熊排"
+food_cookedbearsteak_description_TW : "撒点孜然、辣椒面儿~，美味可口！"
+food_bearjerky_TW : "熊肉干"
+food_bearjerky_description_TW : "又甜又咸！"
+food_mixedgrill_TW : "熊肉大乱炖"
+food_mixedgrill_description_TW : "肉类爱好者的梦想。"
+food_sharkfinsoup_TW : "血鳃鲨鳍汤"
+food_sharkfinsoup_description_TW : "咸香辣的汤，不仅治愈感冒还赋予血魔法技能。"
+food_sharkfinsoup_SE : "血气"
+food_sharkfinsoup_SE_description : "填饱肚子，还能提高血魔法技能。"
+food_sharkmeat_TW : "血鲨肉"
+food_sharkmeat_description_TW : "一片血腥的咸鲨鱼肉."
+food_cookedsharkmeat_TW : "烤血鲨肉"
+food_cookedsharkmeat_description_TW : "海之鱼排，忍不住流口水."
+food_sharkfin_TW : "血鲨鱼翅"
+food_sharkfin_description_TW : "你可以用这些做成美味的汤，甚至可能开始一个威胁物种的市场."
+
+
+##RAVEN##
+BossStones_topic_TW : "你已发现力量的源泉！"
+BossStones_text_TW : "此间弥漫着古老的魔法，或许神灵会因你的虔诚献祭而赐予你祝福"
+
+se_monstrum_chompstun_TW : "切碎"
+se_monstrum_rupturedslow_TW : "破裂"

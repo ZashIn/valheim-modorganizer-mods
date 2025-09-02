@@ -1,0 +1,170 @@
+## GERMAN TRANSLATION MONSTRUM##
+vegvisir_TW : "Vegvisir"
+
+##MOUNT##
+saddle_boar_TW: "Wildschweinsattel"
+saddle_boar_description_TW: "Nutze ihn um ein Wildschwein zu reiten. Das wird eine wilde Fahrt!"
+saddle_bear_TW: "Bärensattel"
+saddle_bear_description_TW: "Nutze ihn um jeden Bären zu reiten. Halte ihn an der kurzen Leine!"
+saddle_prowler_TW: "Streunersattel"
+saddle_prowler_description_TW: "Nutze ihn um einen Streuner zu reiten. Halt dich nicht an seiner Mähne fest!"
+mount_TW: "Reittier"
+
+##PIECES##
+piece_rug_rotten_TW : "Verrotteter Teppich"
+piece_rug_blackbear_TW : "Schwarzbärenteppich"
+piece_rug_grizzlybear_TW : "Grizzlybärenteppich"
+piece_rug_fox_TW : "Fuchsteppich"
+
+##ITEMS##
+mat_foxpelt_TW : "Fuchsfell"
+mat_foxpeltpelt_description_TW : "Das schöne, majestätisch rote Fell eines Fuchses."
+
+##MEADOWS TROPHIES##
+trophy_fox_TW : "Fuchs-Trophäe"
+trophy_fox_description_TW : "Du wirst einen Fuchs nur fangen, wenn du genauso schlau bist wie einer."
+trophy_fox_TW_lore : "Die Füchse streifen durch die Wiesen des Graslandes und suchen nach einer leichten Mahlzeit."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "Schwarzbär-Trophäe"
+trophy_blackbear_description_TW : "Eine großartige Trophäe, um Pasta-Diebe abzuschrecken."
+trophy_blackbear_TW_lore : "Die Schwarzbären jagen im Dunklen Wald. Sie sind beeindruckende Jäger, die nicht unterschätzt werden sollten."
+trophy_razorback_TW : "Razorback-Trophäe"
+trophy_razorback_description_TW : "Die Stoßzähne wachsen weiter, bis sie das eigene Gehirn durchstoßen."
+trophy_razorback_TW_lore : "Diese tollkühnen Wildschweine sind dafür bekannt, sich in die Gefahr zu stürzen und anzugreifen."
+##SWAMP TROPHIES##
+trophy_rottingelk_TW : "Verrottete Elch-Trophäe"
+trophy_rottingelk_description_TW : "Du siehst, wie seine Augen zucken. Ist das ein Made?"
+trophy_rottingelk_TW_lore : "Diese untoten Elche haben die giftigen Dämpfe des Sumpfes in ihrem Fell absorbiert."
+trophy_crawler_TW : "Kriecher_Trophäe"
+trophy_crawler_description_TW : "Du kannst immer noch seine monströsen Schreie hören..."
+trophy_crawler_TW_lore : "Diese monströsen Schlangen spucken Gift in die Augen ihrer Feinde, bevor sie sie auseinanderreißen."
+##PLAINS TROPHIES##
+trophy_prowler_TW : "Streuner-Trophäe"
+trophy_prowler_description_TW : "Besser, du lässt diese Kätzchen nicht deine Couch zerkratzen."
+trophy_prowler_TW_lore : "Sie streifen durch die Savanne auf der Suche nach Beute. Diese Raubkatzen haben sich ihren verdienten Titel als 'Letzter Schatten' erworben."
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "Grizzlybär-Trophäe"
+trophy_grizzlybear_description_TW : "Eine geeignete Trophäe für Jäger, die stolz in einem Festsaal präsentiert werden kann."
+trophy_grizzlybear_TW_lore : "Die Grizzlys patrouillieren durch die Gebirge. Nicht jeder Wikinger hat das Glück, die Geschichte von einer Begegnung mit einem von ihnen zu erzählen."
+trophy_obsidiangolem_TW : "Obsidiangolem-Trophäe"
+trophy_obsidiangolem_description_TW : "Das dunkle vulkanische Glas ist sowohl schön als auch scharf."
+trophy_obsidiangolem_TW_lore : "Die geschärften Obsidiangolems der Berge durchbohren ihre Beute."
+##OCEAN##
+trophy_shark_TW : "Blutkiemen-Trophäe"
+trophy_shark_description_TW : "Wir brauchen ein größeres Boot..."
+trophy_shark_TW_lore : "Ein Tropfen Blut genügt, damit diese monströsen Raubtiere ihre Beute finden."
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "Fuchs"
+foxcub_TW : "Fuchswelpe"
+##BLACKFOREST##
+blackbear_TW : "Schwarzbär"
+blackbearcub_TW : "Schwarzbärenjunges"
+razorback_TW : "Razorback"
+razorbackpiglet_TW : "Frischling"
+##SWAMP##
+rottingelk_TW : "Verrotteter Elch"
+crawler_TW : "Kriecher"
+helwraith_TW : "Hel-Gespenst"
+##MOUNTAINS##
+grizzlybear_TW : "Grizzlybär"
+grizzlybearcub_TW : "Grizzlybärjunges"
+obsidiangolem_TW : "Obsidiangolem"
+##PLAINS##
+prowler_TW : "Streuner"
+prowlercub_TW: "Streunerjunges"
+##OCEAN##
+shark_TW : "Blutkieme"
+
+##ASMODEUS BOSS##
+asmodeus_discover_TW : "Schrein der Seuchenzunge"
+trophy_asmodeus_TW : "Asmodeus-Trophäe"
+trophy_asmodeus_description_TW : "Auch im Tod ist sein Blick hypnotisierend..."
+trophy_asmodeus_TW_lore : "Asmodeus ist ein Diener des Gottes Loki, als einer der Vipernfürsten wacht er über die Tore zu den Reichen von Hel."
+boss_asmodeus_TW : "Asmodeus"
+deadspeak_asmodeus : "Verfluchter Ssssterblicher... Möge mein Gift in deinen Adern verssssauern!"
+asmodeus_summon : "Du hast den Hungernden geweckt..."
+asmodeus_defeat : "Du hast den Hungernden besiegt!"
+altar_asmodeus_TW: "Uralter Viperschädel"
+altar_asmodeus_description_TW: "Fordere den Hungernden heraus..."
+runestone_asmodeus_TW : "Der Hungernde"
+runestone_asmodeus_description_TW : "Die alten Vipern waren für ihren unstillbaren Hunger bekannt. Die Necks wurden fast ausgelöscht, als diese Monster die Welt von Valheim durchstreiften."
+mappin_asmodeus_TW : "Asmodeus"
+
+##SVALT BOSS##
+svalt_discover_TW : "Uraltes Grab"
+trophy_svalt_TW : "Svält-Trophäe"
+trophy_svalt_description_TW : "Das Gift tropft noch immer aus dem Schädel des Monsters..."
+trophy_svalt_TW_lore : "Svält wurde ins Reich von Surtr versiegelt. Er galt als der Verschlinger von Träumen und streifte durch die Nächte der alten Welt."
+boss_svalt_TW : "Svält"
+deadspeak_svalt : "Ich kann deine Angst schmecken Sterblicher... Befreie mich und gemeinsam werden wir diese Welt in Brand setzen!"
+svalt_summon : "Du hast das uralte Böse freigesetzt!"
+svalt_defeat : "Du hast den Verschlinger der Träume besiegt!"
+damnedskeleton_TW : "Brennender Hunger"
+altar_svalt_TW: "Blutmagie Siegel"
+altar_svalt_description_TW: "Befreie den Verschlinger der Träume..."
+runestone_svalt_TW : "Der Verschlinger der Träume..."
+runestone_svalt_description_TW : "In den alten Tagen fürchteten sich die Grauzwerge davor, in der Dämmerung nach draußen zu gehen, denn in der Dunkelheit lauerte Svält der Träumeverschlinger. Die Schamanen verwendeten Blutmagie, um ihn ins Reich von Surtr zu verbannen."
+mappin_svalt_TW : "Svält"
+location_svalt : "Ritualkammer"
+gdancientshaman_TW : "Uralter Schamane"
+ancientroot_TW : "Uralter Wurzel"
+ancientshaman_speech1 : "Wie kannst du es wagen Sterblicher, diesen heiligen Boden zu betreten!"
+ancientshaman_speech2 : "Der Träumeverschlinger wird weiterhin aus diesem Reich versiegelt bleiben!"
+
+##VRYKOLATHAS BOSS##
+vrykolathas_discover_TW : "Hels Tribut"
+trophy_vrykolathas_TW : "Vrykolathas-Trophäe"
+trophy_vrykolathas_description_TW : "Sein Blick entfaltet deinen Geist im wirbelnden Nebeln der Leere. "
+trophy_vrykolathas_TW_lore : "Vrykolathas ist der Herold der Göttin des Todes selbst. Als Hel's Champion hat er viele Seelen in ihrem Namen eingefordert und geerntet..."
+boss_vrykolathas_TW : "Vrykolathas"
+deadspeak_vrykolathas : "Kannst du ihre schaurigen Schreie hören? Sie flehen dich an Sterblicher, dass du dich ihnen im Totenreich anschließt!"
+vrykolathas_summon : "Du hast Hel's Champion herbeigerufen..."
+vrykolathas_defeat : "Du hast die Dunkelheit von Niflheim besiegt!"
+damnedsummon_TW : "Verdammte Seele"
+altar_vrykolathas_TW: "Hel's Feuerschale"
+altar_vrykolathas_description_TW: "Fordere die Göttin des Todes heraus..."
+runestone_vrykolathas_TW : "Das Phantom"
+runestone_vrykolathas_description_TW : "Verbannt, um über die Unterwelt von Nilfheim zu herrschen, befehligt Hel eine niemals schwindende Streitmacht aus untoten Monstrositäten. Ihre Geistervertreter durchstreifen die Himmel suchend nach verlorenen Seelen, um sie für sich selbst zu beanspruchen."
+mappin_vrykolathas_TW : "Vrykolathas"
+
+##SE##
+se_monstrum_bitestun_TW : "Festgenagelt"
+se_monstrum_biteslow_TW : "Verkrüppelt"
+se_monstrum_pincer_TW : "Gezwickt"
+se_monstrum_scorpidsting_TW : "Skorpiongift"
+se_monstrum_chompstun_TW : "Zerkaut"
+se_monstrum_rupturedslow_TW : "zerissen"
+
+##FOOD##
+food_rottenelkmeat_TW : "Verrottetes Elchfleisch"
+food_rottenelkmeat_description_TW : "Allein der Gestank sorgt dafür das dein Magen sich umdreht."
+food_foxmeat_TW : "Rohes Fuchsfleisch"
+food_foxmeat_description_TW : "Dieser Fuchs schaffte es nicht den Bauern zu täuschen."
+food_cookedfoxmeat_TW : "Gekochtes Fuchsfleisch"
+food_cookedfoxmeat_description_TW : "Ein kleiner Biss füllt den Magen eines Mannes!"
+food_foxjerky_TW : "Fuchstrockenfleisch"
+food_foxjerky_description_TW : "Mit Honig gewürzt um dich auf Trab zu halten!"
+
+food_bearsteak_TW : "Rohes Bärensteak"
+food_bearsteak_description_TW : "Ein Stück zartes Bärensteak."
+food_cookedbearsteak_TW : "Gekochtes Bärensteak"
+food_cookedbearsteak_description_TW : "Füge Salz und Pfeffer hinzu für einen köstlichen Genuss!"
+food_bearjerky_TW : "Bärentrockenfleisch"
+food_bearjerky_description_TW : "Süß und salzig!"
+food_mixedgrill_TW : "Gemischter Grill"
+food_mixedgrill_description_TW : "Ein Traum für Fleischliebhaber."
+food_sharkmeat_TW : "Blutkiemenfleisch"
+food_sharkmeat_description_TW : "Ein blutiges Stück salziges Haifischfleisch."
+food_cookedsharkmeat_TW : "Gekochtes Blutkiemenfleisch"
+food_cookedsharkmeat_description_TW : "Steak des Meeres, da läuft einem das Wasser im Mund zusammen."
+food_sharkfin_TW : "Blutkiemenflosse"
+food_sharkfin_description_TW : "Du kannst köstliche Suppe aus ihnen machen, vielleicht ist sie sogar eine Marktlücke..."
+food_sharkfinsoup_description_TW : "Eine salzige und würzige Suppe, die jede Erkältung heilen kann! Verleiht dir die Fertigkeiten der Blutmagie."
+food_sharkfinsoup_SE : "Blutig"
+food_sharkfinsoup_SE_description : "Füllt den Bauch und erhöht deine Blutmagiefertigkeiten."
+
+##RAVEN##
+BossStones_topic_TW : "Du hast einen Ort der Macht entdeckt!"
+BossStones_text_TW : "Hier verweilt alte Magie. Vielleicht gewähren dir die Götter ihren Segen für ein würdiges Opfer?"

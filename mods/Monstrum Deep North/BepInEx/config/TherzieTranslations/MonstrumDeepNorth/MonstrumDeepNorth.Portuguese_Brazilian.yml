@@ -1,0 +1,63 @@
+## TRADUÇÃO PARA O PORTUGUÊS BRASILEIRO MONSTRUM-DEEPNORTH ##
+
+##MONTARIA##
+saddle_mammoth_TW: "Sela de Pridetusk"
+saddle_mammoth_description_TW: "Usada para montar um Pridetusk, segure-se firme!"
+
+##PEÇAS##
+piece_rug_ursabear_TW: "Tapete de Ursa"
+piece_rug_mammoth_TW: "Tapete de Pridetusk"
+
+##ITENS##
+deepnorth_dragonegg_TW: "Ovo de dragão congelado"
+deepnorth_dragonegg_description_TW: "Um ovo de dragão congelado do ninho do Deep North."
+
+##TROFÉUS DEEP NORTH ##
+trophy_arcticbear_TW: "Troféu de Ursa"
+trophy_arcticbear_description_TW: "Parece fofo e aconchegante à distância mas não tanto de perto."
+trophy_arcticbear_TW_lore: "As gigantescas ursas do Deep North são predadoras ferozes, conseguem sentir a presa a quilômetros de distância!"
+trophy_arcticfenringcultist_TW: "Troféu de Frostmancer"
+trophy_arcticfenringcultist_description_TW: "Pequena capa azul. A vovó está apenas sentindo um friozinho!"
+trophy_arcticfenringcultist_TW_lore: "Moldando a geada ao seu redor, os frostmancers saem nas noites frias e escuras."
+trophy_arcticfenring_TW: "Troféu de Caçador da Tundra"
+trophy_arcticfenring_description_TW: "Sempre útil ter um conjunto extra de mãos."
+trophy_arcticfenring_TW_lore: "Os caçadores rondam a tundra congelada em busca de sua próxima vítima."
+trophy_arcticgolem_TW: "Troféu de Golem de Glaciar"
+trophy_arcticgolem_description_TW: "Um belo cristal pulsante de frio, perfeito para manter sua cerveja gelada!"
+trophy_arcticgolem_TW_lore: "Os golems de glaciar são seres mágicos, conjurados do núcleo mais profundo do glaciar."
+trophy_arcticdrake_TW: "Troféu de Dragão de Gelo"
+trophy_arcticdrake_description_TW: "Se você achava que queimaduras de fogo doem, experimente queimar de frio!"
+trophy_arcticdrake_TW_lore: "Os dragões de gelo dominam os céus do Deep North, ninguém está a salvo de sua fúria congelante."
+trophy_jotunnbrute_TW: "Troféu de Berserker Jotunn"
+trophy_jotunnbrute_description_TW: "A tinta de guerra em seus rostos indica de qual clã eles são."
+trophy_jotunnbrute_TW_lore: "Os Jotunn têm um ódio profundo pelos escolhidos do Pai de Um Olho, eles não vão parar por nada para esmagar seu crânio ou comer sua perna no jantar!"
+trophy_arcticmammoth_TW: "Troféu de Pridetusk"
+trophy_arcticmammoth_description_TW: "Você vai precisar de alguns pregos extras para montar este troféu..."
+trophy_arcticmammoth_TW_lore: "Os pridetusk são criaturas nobres, vivem em grupos para proteger seus filhotes das muitas ameaças que vagam pelo Deep North."
+trophy_arcticserpent_TW: "Troféu de Caçador de Gelo"
+trophy_arcticserpent_description_TW: "As serpentes do Deep North têm uma cabeça menos larga em comparação com seus primos."
+trophy_arcticserpent_TW_lore: "Os caçadores de gelo se alimentam nas margens, cuspindo geada mortal a distância."
+trophy_arcticwolf_TW: "Troféu de Lobo Ártico"
+trophy_arcticwolf_description_TW: "Camuflagem perfeitamente branca, não o deixe cair ou poderá perdê-lo na neve!"
+trophy_arcticwolf_TW_lore: "Os lobos vagam pela tundra, caçando em matilhas, não devem ser subestimados."
+
+##DEEPNORTH##
+arcticbear_TW: "Ursa"
+arcticbearcub_TW: "Filhote de Ursa"
+arcticfenring_TW: "Caçador de Tundra"
+arcticfenringcultist_TW: "Frostmancer"
+arcticgolem_TW: "Golem de Glaciar"
+arcticdrake_TW: "Dragão de Gelo"
+jotunnbrute_TW: "Berserker Jotunn"
+arcticmammoth_TW: "Pridetusk"
+arcticserpent_TW: "Caçador de Gelo"
+arcticwolf_TW: "Lobo Ártico"
+arcticwolfcub_TW: "Filhote de Lobo Ártico"
+
+##LOCALIZAÇÕES##
+jotunnlairgateway_TW: "Covil dos Jotunn"
+frozenchest_TW: "Baú Congelado"
+frozenmammothbones_TW: "Ossos de Mamute Congelados"
+lorestonethor_TW: "Pedra do Conhecimento"
+lorestonethor_label_TW: "Flagelo dos Jotunn"
+lorestonethor_description_TW: "Salve a ti, poderoso Senhor do trovão, do relâmpago e da tempestade. Salve a ti, sábio Senhor, cuja palavra é o vínculo da fé. Salve a ti, Senhor do poder, quando o mal ameaça à porta. Golpeia, meu Senhor, que o trovão ressoe, que teu martelo seja verdadeiro. Defensor de Midgard, que sempre possamos depender de ti."

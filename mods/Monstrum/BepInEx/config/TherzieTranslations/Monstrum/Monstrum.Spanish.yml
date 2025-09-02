@@ -1,0 +1,182 @@
+
+
+##FOOD##
+food_foxmeat_TW : "Carne de zorro cruda"
+food_foxmeat_description_TW : "Este zorro no consiguió engañar al granjero"
+food_cookedfoxmeat_TW : "Carne de zorro cocinada"
+food_cookedfoxmeat_description_TW : "¡Un pequeño bocado llena el estómago de un hombre!"
+food_foxjerky_TW : "Cecina de zorro"
+food_foxjerky_description_TW : "¡Sazonado con miel para mantenerte alerta!"
+food_bearsteak_TW : "Filete de oso crudo"
+food_bearsteak_description_TW : "Un trozo de filete de oso tierno"
+food_cookedbearsteak_TW : "Filete de oso cocido"
+food_cookedbearsteak_description_TW : "¡Agregue sal y pimienta para un delicioso manjar!"
+food_bearjerky_TW : "Cecina de oso"
+food_bearjerky_description_TW : "Dulce y salada"
+food_mixedgrill_TW : "Parrilla combinada"
+food_mixedgrill_description_TW : "Un sueño de los amantes de la carne."
+food_rottenelkmeat_TW : "Carne de alce podrida"
+food_rottenelkmeat_description_TW : "Solo el hedor ya te revuelve el estómago"
+##PIECES##
+piece_rug_blackbear_TW : "Alfombra de oso negro"
+piece_rug_grizzlybear_TW : "Alfombra de oso pardo"
+piece_rug_fox_TW : "Alfombra de zorro"
+
+mat_foxpelt_TW : "Piel de zorro"
+mat_foxpeltpelt_description_TW : "Una hermosa y majestuosa piel roja de zorro."
+
+##MOUNTS##
+mount_TW: "Montura"
+saddle_boar_TW: "Montura de jabalí rabioso"
+saddle_boar_description_TW: "Se usa para montar un Razorback, ¡va a ser un viaje movidito!"
+saddle_bear_TW: "Montura de oso"
+saddle_bear_description_TW: "Se usa para montar cualquier Oso, ¡mantenlo con correa corta!"
+saddle_prowler_TW: "Montura de merodeador"
+saddle_prowler_description_TW: "Se usa para montar a un Merodeador, ¡no lo agarres por las melenas!"
+
+##MEADOWS TROPHIES##
+trophy_fox_TW : "trofeo de zorro"
+trophy_fox_description_TW : "Solo atraparás un zorro siendo tan astuto como él."
+trophy_fox_TW_lore : "Los zorros merodean por los prados, en busca de comida fácil."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "Trofeo de oso negro"
+trophy_blackbear_description_TW : "Un gran trofeo para ahuyentar a los ladrones de pasta."
+trophy_blackbear_TW_lore : "Los osos negros cazan en la Selva Negra, son formidables cazadores que no deben ser subestimados."
+trophy_razorback_TW : "Trofeo de jabalí rabioso"
+trophy_razorback_description_TW : "Los colmillos siguen creciendo hasta que perforan el cerebro."
+trophy_razorback_TW_lore : "Se sabe que los feroces jorobados cargan ante el peligro cuando se sienten amenazados.."
+##SWAMP TROPHIES##
+trophy_rottingelk_TW : "Trofeo de alce podrido"
+trophy_rottingelk_description_TW : "Ves sus ojos temblando, ¿eso es un gusano?"
+trophy_rottingelk_TW_lore : "Estos alces no muertos, han absorbido los vapores venenosos del Pantano en sus pieles."
+trophy_crawler_description_TW : "Todavía puedes oír sus gritos monstruosos.."
+trophy_crawler_TW : "Trofeo de rastreador"
+trophy_crawler_TW_lore : "Estas monstruosas serpentinas escupen veneno a los ojos de sus enemigos antes de destrozarlos."
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "Trofeo de oso pardo"
+trophy_grizzlybear_description_TW : "Un trofeo de cazadores digno de ser colgado en exhibición en un salón de hidromiel."
+trophy_grizzlybear_TW_lore : "Los osos pardos patrullan la cordillera, no todos los vikingos viven para contarlo."
+trophy_obsidiangolem_TW : "Trofeo de golem de obsidiana"
+trophy_obsidiangolem_description_TW : "El vidrio volcánico oscuro es hermoso y nítido.."
+trophy_obsidiangolem_TW_lore : "Los afilados golems de obsidiana de las montañas perforan a sus presas."
+##PLAINS##
+trophy_prowler_description_TW : "Será mejor que este gatito no te arañe el sofá.."
+trophy_prowler_TW : "Trofeo merodeador"
+trophy_prowler_TW_lore : "Acechan la sabana en busca de presas, estos felinos se han ganado su legítimo título de 'Última sombra'."
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "Zorro"
+foxcub_TW : "Cachorro de zorro"
+##BLACKFOREST##
+blackbear_TW : "Oso negro"
+blackbearcub_TW : "Cachorro de oso negro"
+razorback_TW : "Jabalí rabioso"
+razorbackpiglet_TW : "Jabato rabioso"
+##SWAMP##
+rottingelk_TW : "Alce podrido"
+crawler_TW : "Rastreador"
+helwraith_TW : "Espectro de Hel"
+##MOUNTAINS##
+grizzlybear_TW : "Oso pardo"
+grizzlybearcub_TW : "Cachorro de oso pardo"
+obsidiangolem_TW : "Golem de obsidiana"
+
+##PLAINS##
+prowler_TW : "Merodeador"
+prowlercub_TW: "Cachorro de merodeador"
+
+##BOSS LOCATIONS##
+vegvisir_TW : "Vegvisir"
+
+##ASMODEUS##
+trophy_asmodeus_TW : "Trofeo Asmodeus"
+trophy_asmodeus_description_TW : "Incluso muerto su mirada es hipnotizante.. "
+trophy_asmodeus_TW_lore : "Asmodeus es un siervo del dios Loki,  señor de las viboras, vigila los reinos de Hel."
+boss_asmodeus_TW : "Asmodeus"
+deadspeak_asmodeus : "Maldito mortal... ¡que mi veneeeeno se pudra en tus venassss!"
+asmodeus_summon : "Has despertado al famélico.."
+asmodeus_defeat : "¡Has derrotado al famélico!"
+altar_asmodeus_TW: "Antiguo cráneo de víbora"
+altar_asmodeus_description_TW: "Desafía al famélico.."
+
+##VRYKOLATHAS##
+trophy_vrykolathas_TW : "Trofeo de Vrykolathas"
+trophy_vrykolathas_description_TW : "Su mirada sumerge tu mente en las espirales del vacío. "
+trophy_vrykolathas_TW_lore : "Vrykolathas es el heraldo de la diosa de la muerte. El campeón de Hel ha cosechado y reclamado muchas almas en su honor"
+boss_vrykolathas_TW : "Vrykolathas"
+deadspeak_vrykolathas : "¿Oyes sus gritos inquietantes? Te ruegan que te unas a ellos en el inframundo, mortal"
+vrykolathas_summon : "Has invocado al campeón de Hel.."
+vrykolathas_defeat : "¡Has derrotado a la oscuridad de Niflheim!"
+damnedsummon_TW : "Alma maldita"
+altar_vrykolathas_TW: "Brasero de Hel"
+altar_vrykolathas_description_TW: "Desafía al diosa de la muerte.."
+runestone_vrykolathas_TW : "El fantasma"
+runestone_vrykolathas_description_TW : " Desterrada a gobernar el inframundo de Niflheim, Hel comanda una fuerza cada vez mayor de monstruosidades no muertas. Sus agentes espectrales vagan por los cielos en busca de seres perdidos a los que reclamar como suyos"
+mappin_vrykolathas_TW : "Vrykolathas"
+
+##SVALT##
+trophy_svalt_TW : "Trofeo Svält"
+trophy_svalt_description_TW : "El veneno aún gotea del cráneo del monstruo.."
+trophy_svalt_TW_lore : "Svält fue condenado al reino de Surtr. Era conocido como el devorador de sueños acechando las noches del viejo mundo"
+boss_svalt_TW : "Svält"
+deadspeak_svalt : "Puedo saborear tu miedo mortal... ¡libérame y prenderemos fuego a este mundo juntos!"
+svalt_summon: "¡Has liberado un antiguo mal!"
+svalt_defeat : "¡Has derrotado al devorador de sueños!"
+damnedskeleton_TW : "Devorador infernal"
+altar_svalt_TW: "Altar mágico de sangre"
+altar_svalt_description_TW: "Libera al devorador de sueños.."
+runestone_svalt_TW : "El devorador de sueños.."
+runestone_svalt_description_TW : "En los días de antaño, los enanos grises temían salir al anochecer ya que en la oscuridad acechaba Svält, el devorador de sueños.. los chamanes usaban magia de sangre para desterrarlo al reino de Surtr."
+mappin_svalt_TW : "Svält"
+location_svalt : "Cámara de rituales"
+gdancientshaman_TW : "Cháman ancestral"
+ancientroot_TW : "Raíz ancestral"
+ancientshaman_speech1 : "¡Cómo te atreves a poner un pie en estos terrenos sagrados mortal!"
+ancientshaman_speech2 : "¡El devorador de sueños permanecerá encerrado lejos de este reino!"
+
+
+##LOCATIONS##
+frozenchest_TW : "Cofre helado"
+moltencave_TW : "Cueva volcánica"
+scorchedchest_TW : "Cofre chamuscado"
+jotunnlairgateway_TW : "Guarida de Jotunn"
+frozenmammothbones_TW : "Huesos de mamut congelados"
+
+##LORESTONES##
+lorestoneodin_TW : "Piedra de sabiduría"
+lorestoneodin_label_TW : "El astuto"
+lorestoneodin_description_TW : "El Padre tuerto, el gran Rey de los dioses, protector de los guerreros que murió sin importar la causa. Mi musa y mi mentor, el anciano que observa, espero llegar algún día a sus salones para festejar y luchar hasta el final de los tiempos. Con Hugin y Munin a su lado, montado sobre Sleipnir su corcel de confianza, gobierna fuerte el Valhalla, el salón de los luchadores y el hidromiel. "
+lorestonethor_TW : "Piedra de sabiduría"
+lorestonethor_label_TW : "Perdicion de Jotunn"
+lorestonethor_description_TW : "Salve a ti poderoso Señor Del trueno, el relámpago y la tormenta. Salve a ti, Señor sabio, cuya palabra es el vínculo de la fe. Salve a ti, Señor del poder cuando el mal amenaza a las puertas. Golpea el martillo con fuerza para que el trueno estremezca. Defensor de Midgard, que siempre dependamos de ti"
+
+##SE EFFECTS##
+se_monstrum_pincer_TW : "Pinzado"
+se_monstrum_scorpidsting_TW : "Veneno de escorpión"
+se_monstrum_bitestun_TW : "Anclado"
+se_monstrum_biteslow_TW : "Lisiado"
+
+se_monstrum_chompstun_TW : "Golpeado"
+se_monstrum_rupturedslow_TW : "Roto"
+
+##SORT LATER##
+food_sharkmeat_TW : "Carne de tiburón"
+food_sharkmeat_description_TW : "Una sangrienta loncha de carne salada de tiburón"
+food_cookedsharkmeat_TW : "Carne de tiburón cocida"
+food_cookedsharkmeat_description_TW : "Filete de mar, no puedes evitar babear"
+food_sharkfin_TW : "Aleta de tiburón"
+food_sharkfin_description_TW : "Puedes hacer una deliciosa sopa con ellas, quizá incluso iniciar un mercado de especies amenazadas..."
+food_sharkfinsoup_TW : "Sopa de aleta de tiburón"
+food_sharkfinsoup_description_TW : "¡Sopa salada y picante que cura cualquier resfriado! Te impregna de regeneración eitr"
+food_sharkfinsoup_SE : "Sanguina"
+food_sharkfinsoup_SE_description : "Te llena la barriga y aumenta tu regeneración de eitr."
+shark_TW : "Sanguinario"
+trophy_shark_TW : "Trofeo de Sanguinario"
+trophy_shark_description_TW : "Vamos a necesitar un barco más grande.."
+trophy_shark_TW_lore : "Una gota de sangre es todo lo que necesitan estos monstruosos depredadores para encontrar a su presa."
+
+##RAVENS##
+BossStones_topic_TW : "¡Has descubierto un lugar de poder!"
+BossStones_text_TW : "La magia antigua reside aquí, ¿quizá los dioses te concedan su bendición por un sacrificio digno?"

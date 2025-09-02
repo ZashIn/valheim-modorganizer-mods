@@ -1,0 +1,972 @@
+set_lox_TW : "Lox"
+set_mammoth_TW : "Mammoth"
+set_rotten_TW : "Rotten"
+set_ullr_TW : "Ullr"
+
+##MEADS##
+meadbase_lightningresist_TW: "Base di idromele: Resistenza al fulmine"
+mead_lightningresist_TW: "Idromele di resistenza al fulmine"
+mead_lightningresist_description_TW: "Ti protegge dai fulmini."
+mead_lightningresist_SE_description: "Subisci meno danni dai fulmini."
+meadbase_lingeringstamina_medium_TW: "Base di idromele: Resistenza prolungata Media"
+mead_lingeringstamina_medium_TW: "Idromele di resistenza prolungata media"
+meadbase_lingeringstamina_minor_TW: "Base di idromele: Resistenza prolungata Minore"
+mead_lingeringstamina_minor_TW: "Idromele di resistenza prolungata minore"
+
+##PIECES##
+
+piece_fletchertable_TW : "Banco dell'arcaio"
+piece_fletchertable_description_TW : "Banco di creazione"
+
+piece_fletchertable_ext1_TW : "Reggiarchi"
+piece_fletchertable_ext1_description_TW : "Banco dell'arcaio miglioramento"
+
+piece_fletchertable_ext2_TW : "Bersaglio di prova"
+piece_fletchertable_ext2_description_TW : "Banco dell'arcaio miglioramento"
+
+piece_fletchertable_ext3_TW : "Morsa"
+piece_fletchertable_ext3_description_TW : "Banco dell'arcaio miglioramento"
+
+piece_fletchertable_ext4_TW : "Tornio in legno"
+piece_fletchertable_ext4_description_TW : "Banco dell'arcaio miglioramento"
+
+piece_ymirforge_TW : "Forgia di Ymir"
+piece_ymirforge_description_TW : "Banco di creazione"
+
+piece_ymirforge_ext1_TW : "Cremagliera artica"
+piece_ymirforge_ext1_description_TW : "Forgia di Ymir miglioramento"
+
+piece_ymirforge_ext2_TW : "Tinozza di tirannio"
+piece_ymirforge_ext2_description_TW : "Forgia di Ymir miglioramento"
+
+piece_ymirforge_ext3_TW : "Maglio antico"
+piece_ymirforge_ext3_description_TW : "Forgia di Ymir miglioramento"
+
+piece_ymirforge_ext4_TW : "Incudine abbandonata"
+piece_ymirforge_ext4_description_TW : "Forgia di Ymir miglioramento"
+
+piece_blackforge_ext2_TW : "Incudine nera"
+piece_blackforge_ext2_description_TW : "Forgia nera miglioramento"
+
+piece_blackforge_ext3_TW : "Mola infusa di Eitr"
+piece_blackforge_ext3_description_TW : "Forgia nera miglioramento"
+
+piece_runesphere_TW : "Sfera runica"
+piece_runesphere_description_TW : "Banco di creazione"
+
+
+##WEAPONS##
+
+##ARROWS##  
+
+arrow_bone_TW : "Freccia d'osso"
+arrow_bone_description_TW : "Freccia d'osso che infligge danni contundenti all'impatto."
+
+arrow_explosivefire_TW : "Freccia infuocata esplosiva"
+arrow_explosivefire_description_TW : "Freccia in fiammetallo che infligge danni esplosivi all'impatto."
+
+arrow_explosivefrost_TW : "Freccia gelata esplosiva"
+arrow_explosivefrost_description_TW : "Freccia in tirannio che infligge danni esplosivi all'impatto."
+
+arrow_explosivelightning_TW : "Freccia fulminante esplosiva"
+arrow_explosivelightning_description_TW : "Freccia elettrica che infligge danni esplosivi all'impatto."
+
+arrow_explosivepoison_TW : "Freccia avvelenata"
+arrow_explosivepoison_description_TW : "Freccia avvelenata che esplode all'impatto."
+
+arrow_pickaxe_TW : "Freccia piccozza"
+arrow_pickaxe_description_TW : "Freccia speciale che può perforare rocce e metalli."
+
+arrow_tyranium_TW : "Freccia di tirannio"
+arrow_tyranium_description_TW : "Freccia in tirannio dall'alta capacità perforante."
+
+arrow_flametal_TW : "Freccia di fiammetallo"
+arrow_flametal_description_TW : "Freccia in fiammetallo dall'alta capacità perforante."
+
+##BOLTS##
+bolt_wood_TW : "Dardo di legno"
+bolt_wood_description_TW : "Attento alle schegge!"
+bolt_fire_TW : "Dardo infuocato"
+bolt_fire_description_TW : "Perfora i tuoi nemici e lascia bruciature lungo il passaggio."
+bolt_frost_TW : "Dardo congelante"
+bolt_frost_description_TW : "Perfora e cauterizza a freddo, congelando dall'interno."
+bolt_poison_TW : "Dardo avvelenato"
+bolt_poison_description_TW : "Un dardo infuso di letale veleno."
+
+bolt_bronze_TW : "Dardo di bronzo"
+bolt_bronze_description_TW : "Un robusto proiettile in bronzo."
+
+bolt_silver_TW : "Dardo d'argento"
+bolt_silver_description_TW : "Proiettile in argento per mettere a tacere gli spiriti irrequieti."
+
+bolt_blunt_TW : "Dardo contundente"
+bolt_blunt_description_TW : "Un missile di ossidiana contundente, perfetto per far ragionare i tuoi avversari a botte in testa."
+
+bolt_pickaxe_TW : "Dardo piccone"
+bolt_pickaxe_description_TW : "Un dardo che ha l'effetto di un colpo di piccozza all'impatto"
+bolt_tyranium_TW : "Dardo di Tyranium"
+bolt_tyranium_description_TW : "Un robusto dardo in tyranium."
+bolt_flametal_TW : "Dardo di Flametal"
+bolt_flametal_description_TW : "Un robusto dardo in flametal."
+bolt_explosivefire_TW : "Dardo esplosivo di fuoco"
+bolt_explosivefire_description_TW : "Esplode all'impatto sprigionando fuoco."
+bolt_explosivefrost_TW : "Dardo esplosivo di ghiaccio"
+bolt_explosivefrost_description_TW : "Esplode all'impatto sprigionando gelo."
+bolt_explosivepoison_TW : "Dardo esplosivo di veleno"
+bolt_explosivepoison_description_TW : "Esplode all'impatto sprigionando veleno."
+bolt_explosivelightning_TW : "Dardo esplosivo del fulmine"
+bolt_explosivelightning_description_TW : "Esplode all'impatto sprigionando fulmini."
+##ATGEIRS##
+atgeir_flint_TW : "Atgeir di selce"
+atgeir_flint_description_TW : "Un atgeir primitivo fatto con la selce, utile per perforare i tuoi nemici."
+
+atgeir_njord_TW : "Atgeir di Njord"
+atgeir_njord_description_TW : "Un atgeir runico infuso con lo spirito di Skrymir, usato per infilzare e congelare i nemici."
+
+atgeir_surtr_TW : "Atgeir di Surtr"
+atgeir_surtr_description_TW : "Un atgeir fiammante infuso con lo spirito di Vulkarion, usato per infilzare e mandare a fuoco i nemici."
+
+atgeir_silver_TW : "Atgeir d'argento"
+atgeir_silver_description_TW : "Un atgeir consacrato in argento, usato per infilzare i nemici."
+
+trident_blackmetal_TW : "Tridente di metallo nero"
+trident_blackmetal_description_TW : "Un letale tridente che può anche essere lanciato contro i nemici."
+
+scythe_vampiric_TW : "Sete di sangue"
+scythe_vampiric_description_TW : "Un'arma maledetta forgiata dal male che non riposa."
+##AXES##
+
+axe_silver_TW : "Ascia d'argento"
+axe_silver_description_TW : "Un'ascia di argento puro che placa gli spiriti."
+
+axe_dvergr_TW : "Ascia nanica"
+axe_dvergr_description_TW : "Un'ascia nanica infusa di eitr, usata per affettare e dare la scossa ai nemici o agli alberi."
+
+axe_njord_TW : "Ascia di Njord"
+axe_njord_description_TW : "Un'ascia runica intfusa con lo spirito di Skrymir, usata per affettare e congelare i nemici o gli alberi."
+
+axe_surtr_TW : "Ascia di Surtr"
+axe_surtr_description_TW : "Un'ascia fiammante intfusa con lo spirito di Vulkarion, usata per affettare e mettere a fuoco i nemici o gli alberi."
+
+
+##THROWAXE##
+
+throw_axe_flint_TW : "Ascia da lancio di selce"
+throw_axe_flint_description_TW: "Ascia in selce non convenzionale, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_bronze_TW : "Ascia da lancio di bronzo"
+throw_axe_bronze_description_TW: "Ascia in bronzo non convenzionale, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_iron_TW : "Ascia da lancio di ferro"
+throw_axe_iron_description_TW: "Ascia in ferro non convenzionale, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_silver_TW : "Ascia da lancio d'argento"
+throw_axe_silver_description_TW: "Ascia in argento non convenzionale, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_blackmetal_TW : "Ascia da lancio di metallo nero"
+throw_axe_blackmetal_description_TW: "Ascia in metallo nero non convenzionale, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_dvergr_TW : "Ascia da lancio nanica"
+throw_axe_dvergr_description_TW: "Ascia nanica non convenzionale, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_njord_TW : "Ascia da lancio di Njord"
+throw_axe_njord_description_TW: "Ascia runica non convenzionale infusa con lo spirito di Skrymir, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+throw_axe_surtr_TW : "Ascia da lancio di Surtr"
+throw_axe_surtr_description_TW: "Ascia fiammante non convenzionale infusa con lo spirito di Vulkarion, può essere lanciata contro i nemici per aprire un cranio o due!"
+
+
+##BATTLEAXE##
+battleaxe_flint_TW : "Ascia da battaglia di selce"
+battleaxe_flint_description_TW: "Un'ascia da battaglia in selce, usata per affettare i nemici o gli alberi."
+
+battleaxe_bronze_TW : "Ascia da battaglia di bronzo"
+battleaxe_bronze_description_TW: "Un'ascia da battaglia in bronzo, usata per affettare i nemici o gli alberi."
+
+battleaxe_iron_TW : "Ascia da battaglia di ferro"
+battleaxe_iron_description_TW: "Un'ascia da battaglia in ferro, usata per affettare i nemici o gli alberi."
+
+battleaxe_silver_TW : "Ascia da battaglia d'argento"
+battleaxe_silver_description_TW: "Un'ascia da battaglia in argento, usata per affettare i nemici o gli alberi."
+
+battleaxe_blackmetal_TW : "Ascia da battaglia di metallo nero"
+battleaxe_blackmetal_description_TW: "Un'ascia da battaglia in metallo nero, usata per affettare i nemici o gli alberi."
+
+battleaxe_dvergr_TW : "Ascia da battaglia nanica"
+battleaxe_dvergr_description_TW: "Un'ascia da battaglia nanica infusa di eitr, usata per affettare e dare la scossa ai nemici o agli alberi."
+
+battleaxe_njord_TW : "Ascia da battaglia di Njord"
+battleaxe_njord_description_TW: "Ascia da battaglia runica infusa con lo spirito di Skrymir, usata per affettare e congelare i nemici o gli alberi."
+
+battleaxe_surtr_TW : "Ascia da battaglia di Surtr"
+battleaxe_surtr_description_TW: "Ascia da battaglia fiammante infusa con lo spirito di Vulkarion, usata per affettare e mettere a fuoco i nemici o gli alberi."
+
+battleaxe_dragon_TW : "Ammazzadraghi"
+battleaxe_dragon_description_TW: "Un'ascia da battglia fatta di ossa di drago, usala per annientare i tuoi nemici, o degli alberi."
+
+##BATTLEAXE CRYSTAL##
+battleaxecrystal_emerald_TW : "Ascia da battaglia con smeraldo"
+battleaxecrystal_emerald_description_TW: "Uno smeraldo incastonato in una letale ascia di cristallo. Trancia i nemici spazzandoli."
+battleaxecrystal_amethyst_TW : "Ascia da battaglia con ametista"
+battleaxecrystal_amethyst_description_TW: "Un'ametista incastonata in una letale ascia di cristallo infusa di eitr. Trancia i nemici folgorandoli."
+battleaxecrystal_sapphire_TW : "Ascia da battaglia con zaffiro"
+battleaxecrystal_sapphire_description_TW: "Uno zaffiro incastonato in una letale ascia di tyranium. Trancia i nemici congelandoli."
+battleaxecrystal_topaz_TW : "Ascia da battaglia con topazio"
+battleaxecrystal_topaz_description_TW: "Un topazio incastonato in una letale ascia di flametal. Trancia i nemici carbonizzandoli."
+
+##BATTLEHAMMER##
+battlehammer_trollbone_TW : "Martello da guerra di ossa di troll"
+battlehammer_trollbone_description_TW : "Un martello da guerra pesante per schiacciare i tuoi nemici con le ossa di un troll."
+
+battlehammer_iron_TW : "Martello da guerra di ferro"
+battlehammer_iron_description_TW: "Un robusto martello da guerra in ferro, usato per schiaccciare i nemici."
+
+battlehammer_silver_TW : "Martello da guerra d'argento"
+battlehammer_silver_description_TW: "Un martello da guerra in puro argento, usato per schiaccciare e purificare i nemici."
+
+battlehammer_blackmetal_TW : "Martello da guerra di metallo nero"
+battlehammer_blackmetal_description_TW: "Un brutale martello da guerra in metallo nero, usato per schiaccciare i nemici."
+
+battlehammer_dvergr_TW : "Martello da guerra nanico"
+battlehammer_dvergr_description_TW: "Un martello da guerra nanico infuso di eitr, usato per schiaccciare e dar la scossa ai nemici."
+
+battlehammer_njord_TW : "Martello da guerra di Njord"
+battlehammer_njord_description_TW: "Un martello da guerra runico infuso con lo spirito di Skrymir, usato per schiaccciare e congelare i nemici."
+
+battlehammer_surtr_TW : "Martello da guerra di Surtr"
+battlehammer_surtr_description_TW: "Un martello da guerra fiammante infuso con lo spirito di Vulkarion, usato per schiaccciare e mettere a fuoco i nemici."
+
+battlehammer_elder_TW : "Sfonda Cranio"
+battlehammer_elder_description_TW : "Un martello da guerra magico,forgiato dal cuore della foresta. Spacca e purifica i tuoi nemici con questo."
+##BOMBS##
+
+bomb_spirit_TW : "Bomba spirituale"
+bomb_spirit_description_TW : "Scatena la purificazione dello spirito all'impatto!"
+
+bomb_frost_TW : "Bomba di gelo"
+bomb_frost_description_TW : "Granata che esplode all'impatto in una deflagrazione di gelo!"
+bomb_fire_TW : "Bomba incendiaria"
+bomb_fire_description_TW : "Granata che esplode all'impatto in una deflagrazione di fuoco!"
+bomb_lightning_TW : "Bomba folgorante"
+bomb_lightning_description_TW : "Una granata che esplode rilasciando fulmini all'impatto!"
+##BOWS##
+bow_trollbone_TW : "Arco di ossa di troll"
+bow_trollbone_description_TW : "Un rigido arco di ossa di troll e bronzo. Scoccare frecce con questo è da veri vichinghi."
+
+bow_blackmetal_TW : "Arco di metallo nero"
+bow_blackmetal_description_TW : "Un letale arco in metallo nero che può scagliare frecce ad una velocità devastante."
+
+bow_njord_TW : "Arco di Njord"
+bow_njord_description_TW : "Un arco runico infuso con lo spirito di Skrymir che può scagliare frecce congelanti."
+
+bow_surtr_TW : "Arco di Surtr"
+bow_surtr_description_TW : "Un arco fiammante infuso con lo spirito di Vulkarion che può scagliare frecce infuocate."
+
+bow_ullr_TW : "Precisione di Ullr"
+bow_ullr_description_TW : "Un arco da caccia leggendario per sconfiggere prede leggendarie."
+
+greatbow_moder_TW : "Fendinubi"
+greatbow_moder_description_TW : "Un grand'arco plasmato dalla magia di Moder."
+
+greatbow_blackmetal_TW : "Arco pesante di metallo nero"
+greatbow_blackmetal_description_TW : "Un grande arco in metallo nero, molto ingombrante ma capace di scagliare frecce a distanze incredibili."
+
+greatbow_dvergr_TW : "Grand'arco nanico"
+greatbow_dvergr_description_TW : "Un arco pesante la cui corda è intrisa di eitr che può infondere il potere del fulmine e scagliare frecce su larga distanza."
+
+greatbow_njord_TW : "Arco pesante di Njord"
+greatbow_njord_description_TW : "Un grande arco runico infuso con lo spirito di Skrymir, molto ingombrante ma capace di scagliare frecce congelanti a lunghe distanze"
+
+greatbow_surtr_TW : "Arco pesante di Surtr"
+greatbow_surtr_description_TW : "Un grande arco fiammante infuso con lo spirito di Vulkarion, molto ingombrante ma capace di scagliare frecce infuocate a lunghe distanze"
+
+
+##CROSSBOWS##
+
+crossbow_bronze_TW : "Balestra di bronzo"
+crossbow_bronze_description_TW : "Una balestra in bronzo lenta ma letale che può sparare dardi a lunghe distanze."
+
+crossbow_iron_TW : "Balestra di ferro"
+crossbow_iron_description_TW : "Una balestra in ferro lenta ma letale che può sparare dardi a lunghe distanze."
+
+crossbow_silver_TW : "Balestra d'argento"
+crossbow_silver_description_TW : "Una balestra in argento lenta ma letale che può sparare dardi a lunghe distanze."
+
+crossbow_blackmetal_TW : "Balestra di metallo nero"
+crossbow_blackmetal_description_TW : "Una balestra in metallo nero lenta ma letale che può sparare dardi a lunghe distanze."
+
+crossbow_njord_TW : "Balestra di Njord"
+crossbow_njord_description_TW : "Lenta ma letale, questa balestra è infusa col potere di Skrymir. I dardi sparati da quest'arma si caricano di freddo e volano rapidi."
+
+crossbow_surtr_TW : "Balestra di Surtr"
+crossbow_surtr_description_TW : "Lenta ma letale, questa balestra è infusa col potere di Vulkarion. I dardi sparati da quest'arma si caricano di freddo e volano rapidi."
+##BASTARD SWORD##
+bastard_flint_TW: "Spada bastarda di selce"
+bastard_flint_description_TW: "Una spada pesante fatta di selce. Usata per squarciare e decapitare i tuoi nemici."
+bastard_bone_TW : "Spada bastarda d'osso"
+bastard_bone_description_TW : "Una colossale spada d'osso. Perfetta per decapitare i nemici, o per tranciarli."
+bastard_chitin_TW : "Spada bastarda abissale"
+bastard_chitin_description_TW : "Una spada selvaggia realizzata in chitina. Perfetta per decapitare i nemici, o per tranciarli."
+bastard_silver_TW : "Spada bastarda d'argento"
+bastard_silver_description_TW : "Un'imponente spada di argento puro. Perfetta per decapitare i nemici, o per purificarli."
+bastard_blackmetal_TW : "Spada bastarda di BlackMetal"
+bastard_blackmetal_description_TW : "Una spada brutale realizzata in blackmetal. Perfetta per decapitare i nemici, o per tranciarli."
+bastard_dvergr_TW : "Spada bastarda nanica"
+bastard_dvergr_description_TW : "Un'insensata spada nanica infusa eitr. Perfetta per decapitare i nemici, o per folgorarli."
+bastard_njord_TW : "Spada bastarda Njord"
+bastard_njord_description_TW : "Una spada runica incantata dalla malizia di Skrymir. Perfetta per decapitare i nemici, o per congelarli."
+bastard_surtr_TW : "Spada bastarda Surtr"
+bastard_surtr_description_TW : "Una spada fiammeggiante incantata dalla malizia di Vulkarion. Perfetta per decapitare i nemici, o per carbonizzarli."
+
+##CLAYMORE##
+claymore_bone_TW : "Claymore d'osso"
+claymore_bone_description_TW : "Una spada d'osso enorme. Spezza e taglia i tuoi nemici con possenti fendenti."
+
+claymore_bronze_TW : "Claymore di bronzo"
+claymore_bronze_description_TW : "Una lama affilata in bronzo, usata per tagliare a metà i nemici."
+
+claymore_chitin_TW : "Claymore degli abissi"
+claymore_chitin_description_TW : "Una lama spietata usata per tranciare i nemici."
+
+claymore_iron_TW : "Claymore di ferro"
+claymore_iron_description_TW : "Una lama robusta in ferro, usata per tagliare a metà i nemici."
+
+claymore_silver_TW : "Claymore d'argento"
+claymore_silver_description_TW : "Una lama consacrata in argento, usata per tagliare a metà i nemici."
+
+claymore_blackmetal_TW : "Claymore di metallo nero"
+claymore_blackmetal_description_TW : "Una lama brutale in metallo nero, usata per tagliare a metà i nemici."
+
+claymore_dvergr_TW : "Claymore nanica"
+claymore_dvergr_description_TW : "Una Claymore nanica intrisa di eitr. Può tagliare di netto i nemici, mentre li folgora."
+
+claymore_njord_TW : "Claymore di Njord"
+claymore_njord_description_TW : "Una lama runica infusa con lo spirito di Skrymir, usata per tagliare a metà i nemici e congelarli."
+
+claymore_surtr_TW : "Claymore di Surtr"
+claymore_surtr_description_TW : "Una lama fiammante infusa con lo spirito di Vulkarion, usata per tagliare a metà i nemici e metterli a fuoco."
+
+claymore_jotunn_TW : "Flagello degli Jotunn"
+claymore_jotunn_description_TW : "Una lama antica che racchiude il potere del gelo e capace di affettare persino un gigante."
+
+blade_yagluth_TW : "Disgrazia"
+blade_yagluth_description_TW : "Una lama malvagia, incantata con la magia distorta di Yagluth in persona."
+
+##DUAL-BLADE##
+
+blade_glacier_TW : "Lama glaciale"
+blade_glacier_description_TW: "Una lama doppia che racchiude il potere dei ghiacciai e permette di falciare i nemici in grande stile ma piccoli pezzi."
+
+blade_volcanic_TW : "Lama vulcanica"
+blade_volcanic_description_TW: "Una lama doppia che racchiude il potere dei vulcani e permette di falciare i nemici in grande stile ma piccoli pezzi."
+
+##DUAL WEAPONS##
+dual_axedemonic_TW : "Mannaie Hellblade"
+dual_axedemonic_description_TW : "Una coppia di asce demoniache dal regno in fiamme di Surtr."
+dual_swordscimitar_TW: "Scimitarre in metallo nero"
+dual_swordscimitar_description_TW: "Una coppia affilata di spade scimitarra in metallo nero per sbarazzarti in fretta dei tuoi nemici."
+dual_knifebone_TW : "Pugnali d’ossa"
+dual_knifebone_description_TW : "Una coppia di pugnali affilati d’ossa per affettare i tuoi nemici!" 
+dual_knifechitin_TW : "Pugnali di chitina"
+dual_knifechitin_description_TW : "Una coppia di pugnali affilati di chitina per affettare i tuoi nemici!"
+dual_knifeiron_TW : "Pugnali di ferro"
+dual_knifeiron_description_TW : "Una coppia di pugnali affilati in ferro per affettare i tuoi nemici!"
+dual_knifesilver_TW : "Pugnali d’argento"
+dual_knifesilver_description_TW : "Una coppia di pugnali affilati in argento per affettare i tuoi nemici!"
+dual_knifebm_TW : "Pugnali di metallo nero"
+dual_knifebm_description_TW : "Una coppia di pugnali affilati di metallo nero per affettare i tuoi nemici!"
+##FISTS##
+fist_bronze_TW : "Nocche di bronzo"
+fist_bronze_description_TW: "Micidiali nocche di pugno di bronzo con cui sbattere i denti."
+fist_chitin_TW : "Katars abissali"
+fist_chitin_description_TW: "I letali katar di chitina usati per dissanguare la tua preda."
+fist_iron_TW : "Nocche di ferro"
+fist_iron_description_TW: "Letale nocca del pugno di ferro con cui sbattere i denti."
+fist_silver_TW : "Artigli d'argento"
+fist_silver_description_TW: "Micidiali artigli d'argento con cui dare la caccia ai tuoi nemici."
+fist_blackmetal_TW : "Artigli Blackmetal"
+fist_blackmetal_description_TW: "Letale artigli blackmetal con cui dare la caccia ai tuoi nemici."
+fist_dvergr_TW : "Pugni di nanici"
+fist_dvergr_description_TW: "Letale arma nanica a pugni infusa con eitr. Usata per colpire e scioccare i tuoi nemici."
+fist_queen_TW : "Fame"
+fist_queen_description_TW : "Mostruose armi con artigli dalla punta velenosa per fare a pezzi la tua preda."
+fist_njord_TW : "Pugni di Njord"
+fist_njord_description_TW: "Armi letali a pugno runico incantate con la malizia di Skrymir. Utilizzate per cacciare e congelare i tuoi nemici."
+fist_surtr_TW : "Lame da polso Surtr"
+fist_surtr_description_TW: "Lame da polso infuocate incantate dalla malvagità di Vulkarion. Usate per cacciare e bruciare i tuoi nemici."
+
+##GREATCLUB##
+
+greatclub_TW : "Clava gigante"
+greatclub_description_TW : "Una mazza molto pesante con cui frantumare le teste dei nemici."
+
+
+##KNIVES##
+knife_bronze_TW : "Coltello di bronzo"
+knife_bronze_description_TW: "Un'affilato coltello di bronzo per accoltellare i tuoi nemici alle spalle."
+
+knife_iron_TW : "Coltello di ferro"
+knife_iron_description_TW: "Un coltello affilato in ferro con cui pugnalare i nemici."
+
+knife_njord_TW : "Coltello di Njord"
+knife_njord_description_TW: "Un coltello runico infuso con lo spirito di Skrymir con cui pugnalare i nemici e congelarli."
+
+knife_surtr_TW : "Coltello di Surtr"
+knife_surtr_description_TW: "Un coltello fiammante infuso con lo spirito di Vulkarion con cui pugnalare i nemici e metterli a fuoco."
+
+knife_wrench_TW : "Coltello-brugola"
+knife_wrench_description_TW: "Pratico e sicuro! Anche per i bambini!"
+  
+knife_viper_TW: "Vipera"
+knife_viper_description_TW: "Un coltello magico imbevuto del veleno del signore delle Vipere. Usato per pugnalare e avvelenare i tuoi nemici."
+##MACE##
+
+mace_flint_TW : "Randello di selce"
+mace_flint_description_TW : "Una mazza in selce con cui abbattere i nemici."
+
+mace_chitin_TW : "Martello abissale"
+mace_chitin_description_TW : "Un martello brutale fatto di chitina, perfetto per schiacciare i tuoi nemici."
+
+mace_dvergr_TW : "Maglio nanico"
+mace_dvergr_description_TW :  "Una mazza nanica infusa di eitr con cui abbattere e dar la scossa ai nemici."
+
+mace_njord_TW : "Mazzuolo di Njord"
+mace_njord_description_TW : "Una mazza runica infusa con lo spirito di Skrymir con cui abbattere e congelare i nemici."
+
+mace_surtr_TW : "Maglio di Surtr"
+mace_surtr_description_TW : "Una mazza fiammante infusa con lo spirito di Vulkarion con cui abbattere e mettere a fuoco i nemici."
+
+
+##SLEDGE##
+
+sledge_bronze_TW : "Maglio di bronzo"
+sledge_bronze_description_TW : "Un possente maglio lucente, forgiato nel bronzo, per schiacciare i tuoi nemici con stile."
+
+
+sledge_silver_TW : "Mazza d'argento"
+sledge_silver_description_TW : "Un pesante martello in argento puro, usato per ridurre in poltiglia i nemici."
+
+
+sledge_blackmetal_TW : "Mazza di metallo nero"
+sledge_blackmetal_description_TW : "Un pesante martello in metallo nero, usato per ridurre in poltiglia i nemici."
+
+
+sledge_njord_TW : "Mazza di Njord"
+sledge_njord_description_TW : "Un pesante martello runico infuso con lo spirito di Skrymir, usato per ridurre in poltiglia e congelare i nemici."
+
+sledge_surtr_TW : "Mazza di Surtr"
+sledge_surtr_description_TW : "Un pesante martello fiammante infuso con lo spirito di Vulkarion, usato per ridurre in poltiglia e mettere a fuoco i nemici."
+
+sledge_bonemass_TW : "Spaccacranio"
+sledge_bonemass_description_TW : "Un maglio che trasuda malaria e infezione. Scatena la pestilenza sui tuoi nemici."
+##SPEAR##
+
+spear_blackmetal_TW : "Lancia di metallo nero"
+spear_blackmetal_description_TW : "Una lancia appuntita in metallo nero che può infilzare ed essere lanciata ai nemici."
+
+
+spear_njord_TW : "Lancia di Njord"
+spear_njord_description_TW : "Una lancia runica infusa con lo spirito di Skrymir che può infilzare ed essere lanciata ai nemici, congelandoli."
+
+spear_surtr_TW : "Lancia di Surtr"
+spear_surtr_description_TW : "Una lancia fiammante infusa con lo spirito di Vulkarion che può infilzare ed essere lanciata ai nemici, mettendoli a fuoco."
+
+lance_blackmetal_TW : "Asta di blackmetal"
+lance_blackmetal_description_TW : "Un'asta di blackmetal. Perfora e trapassa i tuoi nemici."
+
+lance_dvergr_TW : "Asta nanica"
+lance_dvergr_description_TW : "Una asta nanica infusa di eitr che può infilzare ed essere lanciata ai nemici."
+
+lance_surtr_TW : "Asta Surtr"
+lance_surtr_description_TW : "Un'affidabile asta fiammeggiante incantata dalla malizia di Vulkarion. Perfora e trapassa i tuoi nemici, carbonizzandoli!"
+lance_njord_TW : "Asta Njord"
+lance_njord_description_TW : "Un'affidabile asta runica incantata dalla malizia di Skrymir. Perfora e trapassa i tuoi nemici, congelandoli!"
+
+##SWORDS##
+sword_flint_TW : "Spada di selce"
+sword_flint_description_TW : "Un'affilata spada di selce per vibrare fendenti sui tuoi nemici."
+
+sword_bone_TW : "Spada d'osso"
+sword_bone_description_TW : "Una spada in osso. Perfetta per affettare i tuoi nemici"
+
+sword_chitin_TW : "Spada degli abissi"
+sword_chitin_description_TW : "Una spada spietata usata per squartare i nemici."
+
+sword_scimitar_TW : "Scimitarra di metallo nero"
+sword_scimitar_description_TW : "Una spada in metallo nero affilatissima, per affettare i tuoi nemici."
+
+sword_njord_TW : "Spada di Njord"
+sword_njord_description_TW : "Una spada runica infusa con lo spirito di Skrymir usata per squartare e congelare i nemici."
+
+sword_surtr_TW : "Spada di Surtr"
+sword_surtr_description_TW : "Una spada fiammante infusa con lo spirito di Vulkarion usata per squartare e mettere a fuoco i nemici."
+
+##WARPIKE##
+warpike_bone_TW : "Picca d'osso"
+warpike_bone_description_TW : "Un'affidabile asta di osso. Salta in battaglia, o perfora i tuoi nemici!"
+warpike_elder_TW : "Straziatrice"
+warpike_elder_description_TW : "Un'asta magica forgiata dal cuore della foresta.  Salta in battaglia, o perfora i tuoi nemici, purificandoli!"
+warpike_chitin_TW : "Picca abissale"
+warpike_chitin_description_TW : "Un'affidabile asta di chitina. Salta in battaglia, o perfora i tuoi nemici!"
+warpike_obsidian_TW : "Picca di ossidiana"
+warpike_obsidian_description_TW : "Un'affidabile asta di ossidiana. Salta in battaglia, o perfora i tuoi nemici!"
+warpike_blackmetal_TW : "Picca di blackmetal"
+warpike_blackmetal_description_TW : "Un'affidabile asta di blackmetal. Salta in battaglia, o perfora i tuoi nemici!"
+warpike_dvergr_TW : "Picca nanica"
+warpike_dvergr_description_TW : "Un'affidabile asta infusa di eitr. Salta in battaglia, o perfora i tuoi nemici!"
+warpike_njord_TW : "Picca Njord"
+warpike_njord_description_TW : "Un'affidabile asta runica incantata dalla malizia di Skrymir. Salta in battaglia, o perfora i tuoi nemici, congelandoli!"
+warpike_surtr_TW : "Picca Surtr"
+warpike_surtr_description_TW : "Un'affidabile asta fiammeggiante incantata dalla malizia di Vulkarion. Salta in battaglia, o perfora i tuoi nemici, carbonizzandoli!"
+
+##SHIELDS##
+
+shield_bandedbronze_TW : "Scudo striato di bronzo"
+shield_bandedbronze_description_TW : "Scudo rinforzato con anelli in bronzo, il compagno più fidato di ogni avventuriero."
+
+shield_towerbronze_TW : "Scudo a torre di bronzo"
+shield_towerbronze_description_TW : "Un grande scudo di solido bronzo brunito."
+
+shield_chitin_TW : "Scudo di cirripedi"
+shield_chitin_description_TW : "Uno scudo solido ricoperto di cirripedi affilati dal tempo, attento alle dita!"
+shield_towerchitin_TW : "Scudo torre di chitina"
+shield_towerchitin_description_TW : "Uno scudo imponente e pesante realizzato in chitina e bronzo."
+shield_bucklerchitin_TW : "Brocchiero di chitina"
+shield_bucklerchitin_description_TW : "Un brocchiero di chitina per deviare i colpi degli avversari"
+
+shield_bucklersilver_TW : "Brocchiero d'argento"
+shield_bucklersilver_description_TW : "Uno scudo in argento puro, grazie all'umbone è ottimo per deviare gli attacchi."
+
+shield_bucklerblackmetal_TW : "Brocchiero di Blackmetal"
+shield_bucklerblackmetal_description_TW : "Un brocchiero in Blackmetal, usato per rivoltare i colpi dei tuoi avversari contro di loro..."
+
+shield_bucklerflametal_TW : "Brocchiero di fiammetallo"
+shield_bucklerflametal_description_TW : "Uno scudo in fiammetallo, grazie all'umbone è ottimo per deviare gli attacchi."
+
+shield_bucklertyranium_TW : "Brocchiero di tirannio"
+shield_bucklertyranium_description_TW : "Uno scudo in tirannio, grazie all'umbone è ottimo per deviare gli attacchi."
+
+shield_njord_TW : "Scudo di Njord"
+shield_njord_description_TW : "Uno scudo runico infuso con lo spirito di Skrymir, protegge dagli attacchi nemici ed aumenta la resistenza al gelo."
+
+shield_njordtower_TW : "Protettore di Njord"
+shield_njordtower_description_TW : "Uno scudo a torre runico infuso con lo spirito di Skrymir, protegge dagli attacchi nemici ed aumenta la resistenza al gelo."
+
+shield_surtr_TW : "Scudo di Surtr"
+shield_surtr_description_TW : "Uno scudo fiammante infuso con lo spirito di Vulkarion, protegge dagli attacchi nemici ed aumenta la resistenza al fuoco."
+
+shield_surtrtower_TW : "Baluardo di Surtr"
+shield_surtrtower_description_TW : "Uno scudo a torre fiammante infuso con lo spirito di Vulkarion, protegge dagli attacchi nemici ed aumenta la resistenza al fuoco."
+
+shield_arcticserpent_TW : "Scudo del serpente artico"
+shield_arcticserpent_description_TW : "Un durevole scudo rinforzato con scaglie di serpente artico, particolarmente efficace contro attacchi perforanti e contundenti."
+
+shield_carapacetower_TW : "Egida di carapace"
+shield_carapacetower_description_TW : "Un largo scudo torre fatto di carapace dei seeker, per difenderti con l'incrollabilità del loro esoscheletro."
+##CAPES##
+
+cape_arcticwolf_TW : "Mantello di lupo artico"
+cape_arcticwolf_description_TW : "Un mantello realizzato con pellicce di lupo artico, protegge dal freddo."
+
+cape_ashenscale_TW : "Mantello di scaglie cineree"
+cape_ashenscale_description_TW : "Un mantello realizzato con scaglie cineree, protegge dal calore."
+
+cape_rotten_TW : "Mantello di cuoio putrido"
+cape_rotten_description_TW : "Un disgustoso mantello cucito con pellicce putride."
+
+cape_mammoth_TW : "Mantello di mammut artico"
+cape_mammoth_description_TW : "Un pesante mantello in pelliccia di mammut che protege dalle alte temperature."
+
+cape_lox_TW : "Mantello di lox"
+cape_lox_description_TW : "Un mantello realizzato con pellicce di lox, protegge dal freddo."
+
+
+##SET EFFECTS##
+
+bearhelmetbuff_TW : "Potenza"
+
+boarhelmetbuff_description_TW : "Resistenza"
+
+loxset_TW : "Set del lox"
+loxset_description_TW : "Aumenta l'abilità di cavalcata e la resistenza al freddo."
+
+mammothset_TW : "Set del mammut"
+mammothset_description_TW : "Aumenta la rigenerazione di stamina e la resistenza al freddo."
+
+rottenset_TW : "Putrido"
+rottenset_description_TW : "Protegge dai danni da avvelenamento."
+
+ullrset_TW : "Benedizione di Ullr"
+ullrset_description_TW : "Aumenta il danno con gli archi del 15%."
+
+
+##HELMETS##
+
+helmet_ursabear_TW : "Cappuccio di pelliccia d'orso"
+helmet_ursabear_description_TW : "Copricapo ornamentale di un cacciatore di cinghiali."
+
+helmet_blackbear_TW : "Cappuccio dell'orso nero"
+helmet_blackbear_description_TW : "Copricapo ornamentale di un cacciatore di orsi neri."
+
+helmet_grizzlybear_TW : "Cappuccio dell'orso grizzly"
+helmet_grizzlybear_description_TW : "Copricapo ornamentale di un cacciatore di grizzly."
+
+helmet_razorback_TW : "Cappuccio di maiale selvatico"
+helmet_razorback_description_TW : "Copricapo ornamentale di un cacciatore di maiali selvatici."
+
+helmet_rotten_TW : "Cappuccio di cuoio putrido"
+helmet_rotten_description_TW : "Un disgustoso cappuccio cucito con pellicce putride."
+
+helmet_lox_TW : "Cappuccio di cuoio di lox"
+helmet_lox_description_TW : "Un caldo cappuccio realizzato con pellicce di lox."
+
+helmet_mammoth_TW : "Cappuccio di cuoio di mammut"
+helmet_mammoth_description_TW : "Un caldo cappuccio realizzato con pellicce di mammut artico."
+
+helmet_ullr_TW : "Corona di Ullr"
+helmet_ullr_description_TW : "Leggendario copricapo da cacciatore appartenente al set di Ullr."
+
+
+##ARMOR##
+
+armor_rottenchest_TW : "Tunica di cuoio putrido"
+armor_rottenchest_description_TW : "Una disgustosa veste cucita con pellicce putride."
+
+armor_rottenlegs_TW : "Pantaloni di cuoio putrido"
+armor_rottenlegs_description_TW : "Un disgustoso paio di calzoni cucito con pellicce putride."
+
+armor_loxchest_TW : "Tunica di cuoio di lox"
+armor_loxchest_description_TW : "Una calda veste realizzata con pellicce di lox."
+
+armor_loxlegs_TW : "Pantaloni di cuoio di lox"
+armor_loxlegs_description_TW : "Un paio di comodi calzoni realizzato con pellicce di lox."
+
+armor_mammothchest_TW : "Tunica di cuoio di mammut"
+armor_mammothchest_description_TW : "Una calda veste realizzata con pellicce di mammut artico."
+
+armor_mammothlegs_TW : "Pantaloni di cuoio di mammut"
+armor_mammothlegs_description_TW : "Un paio di comodi calzoni realizzato con pellicce di mammut artico."
+
+armor_ullrchest_TW : "Anima di Ullr"
+armor_ullrchest_description_TW : "Leggendaria veste da cacciatore appartenente al set di Ullr."
+
+armor_ullrlegs_TW : "Tenacia di Ullr"
+armor_ullrlegs_description_TW : "Leggendario paio di stivali da cacciatore appartenente al set di Ullr."
+
+
+##TOOLS##
+
+pickaxe_silver_TW : "Piccone d'argento"
+pickaxe_silver_description_TW : "Una resistente piccozza in argento usata per estrarre rocce ad altri minerali."
+
+pickaxe_dvergr_TW : "Piccozza di mandibola"
+pickaxe_dvergr_description_TW : "Una rudimentale piccozza costruita con mandibole di insetti cacciatori e infusa di eitr, usata per estrarre rocce ad altri minerali."
+
+pickaxe_njord_TW : "Piccone di Njord"
+pickaxe_njord_description_TW : "Una resistente piccozza in tirannio usata per estrarre rocce ad altri minerali."
+
+pickaxe_surtr_TW : "Piccone di Surtr"
+pickaxe_surtr_description_TW : "Una resistente piccozza in fiammetallo usata per estrarre rocce ad altri minerali."
+
+##JEWELERY##
+ring_loki_TW: "Sete di conoscenza"
+ring_loki_description_TW: "L'astuto Loki è il suo manufatto magico preferito."
+se_ring_loki_TW: "Alta marea"
+se_ring_loki_start_TW: "Senti la potente magia fluire dentro di te."
+necklace_tyr_TW: "Valore"
+necklace_tyr_description_TW: "L'impavido Tyr è il suo bene più amato."
+se_collana_tyr_TW: "Guardia"
+se_necklace_tyr_start_TW: "Ti senti senza paura."
+
+##MATERIALS##
+mat_tyraniumbar_TW : "Tirannio"
+mat_tyraniumbar_description_TW : "Un pesante lingotto di tirannio utilizzato nella creazione di oggetti."
+mat_tyraniumore_TW : "Minerale di tirannio"
+mat_tyraniumore_description_TW : "Quando il lupo morse la mano di Tyr, il suo sangue si sparse in tutto il mondo, solidificandosi in un metallo durissimo."
+ancientscroll_TW : "Antica pergamena"
+ancientscroll_description_TW : "Una pergamena antica di cui si dice abbia il potere di aumentare l'abilità dell'urtilizzatore, nelle vie arcane."
+mat_blackice_TW: "Ghiaccio nero"
+mat_blackice_description_TW: "I cristalli induriti risuonano con l'essenza di una magia molto antica."
+mat_ancientartifact_TW : "Artefatto antico"
+mat_ancientartifact_description_TW : "Un raro artefatto antico, al mercante potrebbe interessare!"
+
+mat_ancientheart_TW : "Cuore antico"
+mat_ancientheart_description_TW : "An enorme cuore antico, talvolta sembra di sentirlo ancora pulsare..."
+
+mat_arcticbearpelt_TW : "Pelliccia d'orso"
+mat_arcticbearpelt_description_TW : "Una spessa e pallida pelliccia orsina."
+
+mat_arcticmammothpelt_TW : "Pelliccia di mammut"
+mat_arcticmammothpelt_description_TW : "Una spessa e calda pelliccia, impedisce al tuo posteriore di congelarsi."
+
+mat_arcticmammothtusk_TW : "Zanna spezzata di mammut"
+mat_arcticmammothtusk_description_TW : "Una zanna spezzata di un fiero mammut artico."
+
+mat_arcticserpentscale_TW : "Scaglia di serpente artico"
+mat_arcticserpentscale_description_TW : "Una robusta e pesante scaglia di un serpente artico del'Alto nord."
+
+mat_arcticwolfpelt_TW : "Pelliccia di lupo artico"
+mat_arcticwolfpelt_description_TW : "Una pelliccia di lupo bianca come la neve del'Alto nord."
+
+mat_ashenchitin_TW : "Chitina cinerea"
+mat_ashenchitin_description_TW : "Indurita dagli elementi delle Lande desolate, è un ottimo materiale per la fabbricazione di armature e non solo."
+
+mat_ashenclaw_TW : "Artiglio cinereo"
+mat_ashenclaw_description_TW : "Un artiglio affilato di un mostro delle Lande desolate, emette un bagliore."
+
+mat_ashenfang_TW : "Zanna cinerea"
+mat_ashenfang_description_TW : "Una zanna appuntita di un mostro delle Lande desolate, sembra incandescente."
+
+mat_ashenfur_TW : "Pelliccia cinerea"
+mat_ashenfur_description_TW : "Pelliccia durevole indurita dagli elementi delle Lande desolate."
+
+mat_ashenscale_TW : "Scaglia cinerea"
+mat_ashenscale_description_TW : "Un resistente appartenente a una delle bestie delle Lande desolate."
+
+mat_blackbearpelt_TW : "Pelliccia di orso nero"
+mat_blackbearpelt_description_TW : "Una spessa e scura pelliccia di orso nero."
+
+mat_darkcrystal_TW : "Cristallo oscuro"
+mat_darkcrystal_description_TW : "Un cristallo proveniente dal regno delle ombre che emette energia oscura."
+
+mat_demonicessence_TW : "Essenza demoniaca"
+mat_demonicessence_description_TW : "Puoi sentire l'eccheggiare di sussurri demoniaci..."
+
+mat_dyeblack_TW: "Tintura nera"
+mat_dyeblack_description_TW: "Scura come la notte."
+
+mat_eyeofskadi_TW : "Occhio di Skadi"
+mat_eyeofskadi_description_TW : "Una potente reliquia magica, affidata ai più leali verso il malvagio Skadi. L'essenza al suo interno può essere usata per il crafting."
+
+mat_freyjaessence_TW : "Essenza di Frejya"
+mat_freyjaessence_description_TW : "Una rara essenza magica che emette enrgia vitale."
+
+mat_frozenclaw_TW : "Artiglio congelato"
+mat_frozenclaw_description_TW : "Un affilato artiglio ghiacciato che appartiene a un mostro dell'Alto nord."
+
+mat_frozenfang_TW : "Zanna congelata"
+mat_frozenfang_description_TW : "Un'appuntita zanna ghiacciata che appartiene a un mostro dell'Alto nord."
+
+mat_frozenorb_TW : "Nucleo congelato"
+mat_frozenorb_description_TW : "Un nucleo ghiacciato utilizzato nella creazione di oggetti."
+
+mat_jotunnheimcrystal_TW : "Cristallo glaciale"
+mat_jotunnheimcrystal_description_TW : "Magnifico cristallo raro proveniente dal nucleo di un ghiacciaio."
+
+mat_volcaniccrystal_TW : "Cristallo vulcanico"
+mat_volcaniccrystal_description_TW : "Magnifico cristallo raro proveniente dal nucleo di un vulcano."
+
+mat_glaciergland_TW : "Ghiandola congelata"
+mat_glaciergland_description_TW : "Una ghiandola ghiacciata appartenente a un draghetto dei ghiacci."
+
+mat_lavagland_TW : "Ghiandola lavica"
+mat_lavagland_description_TW : "Una ghiandola incandescente appartenente a un draghetto lavico"
+
+mat_goblinscraps_TW : "Rottami di goblin"
+mat_goblinscraps_description_TW : "Stracci di vesisti goblin, meglio non guardare le macchie."
+
+mat_grizzlybearpelt_TW : "Pelliccia di grizzly"
+mat_grizzlybearpelt_description_TW : "Una spessa pelliccia marrone di orso grizzly."
+
+mat_jotunntooth_TW : "Dente di Jotun"
+mat_jotunntooth_description_TW : "Un enorme dente appartenuto a un gigante."
+
+mat_juteblack_TW : "Iuta nera"
+mat_juteblack_description_TW : "Elegante tessuto di colore scuro."
+
+mat_loxbone_TW : "Osso di lox"
+mat_loxbone_description_TW : "Pesante e insanguinato, con ancora attaccata un po' di carne da mordicchiare."
+
+mat_minotaurhorn_TW : "Corno di minotauro"
+mat_minotaurhorn_description_TW : "Un possente corno di uno dei minotauri che si aggirano per le Lande desolate."
+
+mat_reginessence_TW : "Essenza di Regin"
+mat_reginessence_description_TW : "Una preziosa essenza magica utilizzata nella creazione di oggetti potenti."
+
+mat_rottenpelt_TW : "Pelliccia putrida"
+mat_rottenpelt_description_TW : "Una disgustosa pelliccia ricoperta di larve."
+
+mat_smolderingcore_TW : "Nucleo fumante"
+mat_smolderingcore_description_TW : "Un nucleo magico che brucia senza fiamma, utilizzato nella creazione di oggetti."
+
+mat_trollbone_TW : "Osso di troll"
+mat_trollbone_description_TW : "Un vecchio e pesante osso di troll, emana un odore ristagnante."
+
+mat_tyraniumchain_TW : "Catena di tirannio"
+mat_tyraniumchain_description_TW : "Una maglia di catena forgiata in tirannio, può essere fusa in una fornace."
+
+mat_venomfang_TW : "Zanna velenosa"
+mat_venomfang_description_TW : "Una zanna intrisa di una pericolosa tossina."
+mat_prowlerfang_TW : "Zanna di predatore"
+mat_prowlerfang_description_TW : "Ancora intrisa del sangue della sua ultima vittima.."
+mat_primalfenrishair_TW: "Fascio capelli fenris primordiale"
+mat_primalfenrishair_description_TW: "Un fascio di peli congelati dei lupi del nord."
+
+##GEMS##
+
+amethyst_warfare_TW : "Ametista"
+amethyst_warfare_description_TW : "Una pietra preziosa, il mercante potrebbe essere disposto a pagare profumatamente per averla."
+
+emerald_warfare_TW : "Smeraldo"
+emerald_warfare_description_TW : "Una pietra preziosa, il mercante potrebbe essere disposto a pagare profumatamente per averla."
+
+onyx_warfare_TW : "Onice"
+onyx_warfare_description_TW : "Una pietra preziosa, il mercante potrebbe essere disposto a pagare profumatamente per averla."
+
+topaz_warfare_TW: "Topazzio"
+topaz_warfare_description_TW : "Una pietra preziosa, il mercante potrebbe essere disposto a pagare profumatamente per averla."
+
+sapphire_warfare_TW: "Zaffiro"
+sapphire_warfare_description_TW : "Una pietra preziosa, il mercante potrebbe essere disposto a pagare profumatamente per averla."
+
+diamond_warfare_TW : "Diamante"
+diamond_warfare_description_TW : "Una pietra preziosa, il mercante potrebbe essere disposto a pagare profumatamente per averla."
+##RUNES##
+
+rune_description_TW : "Una runa magica utilizzata nella creazione di oggetti."
+
+rune_ber_TW : "Runa Ber"
+
+rune_algiz_TW : "Runa Algiz"
+
+rune_dagaz_TW : "Runa Dagaz"
+
+rune_eihwaz_TW : "Runa Eihwaz"
+
+rune_fehu_TW : "Runa Fehu"
+
+rune_jara_TW : "Runa Jara rune"
+
+rune_mannaz_TW : "Runa Mannaz"
+
+rune_othala_TW : "Runa Othala"
+
+rune_perth_TW : "Runa Perth"
+
+rune_raidho_TW : "Runa Raidho"
+
+rune_thurisaz_TW : "Runa Thurisaz"
+
+##MISC##
+
+pickable_chainedmeat_TW : "Carne appesa"
+
+##VEGETATION##
+
+metalsource_titansword_TW : "Resti di titano"
+
+minerock_glacierfragment_TW : "Frammento glaciale"
+
+minerock_tyranium_TW : "Deposito di tirannio"
+
+minerock_volcanicfragment_TW : "Frammento vulcanico"
+
+ashlands_tree_TW : "Albero fiammeggiante"
+
+deepnorth_tree_TW : "Albero boreale"
+
+ashlands_branch_TW : "Ramo bruciato"
+
+deepnorth_branch_TW : "Ramo boreale"
+
+ashlands_wood_TW : "Legna bruciata"
+ashlands_wood_description_TW : "Legna arsa delle Lande desolate, utilizzata nella costruzione e nella creazione di oggetti."
+
+deepnorth_wood_TW : "Legna boreale"
+deepnorth_wood_description_TW : "Legna boreale dell'Alto nord, utilizzata nella costruzione e nella creazione di oggetti."
+
+mat_glacierstone_TW : "Pietra glaciale"
+mat_glacierstone_description_TW : "Pietra fredda al tatto."
+
+mat_volcanicstone_TW : "Pietra vulcanica"
+mat_volcanicstone_description_TW : "Pompei ha chiamato, vuole indietro le sue pietre."
+
+mat_firelilly_TW : "Bocciolo infuocato"
+mat_firelilly_description_TW : "Una ninfea esotica che sboccia sulle terre bruciate degli altipiani del sud."
+
+consume_tundraberry_TW : "Bacca della tundra"
+consume_tundraberry_description_TW : "Un frutto ghiacciato della tundra del nord."
+
+consume_flamecap_TW : "Cappelli fiammanti"
+consume_flamecap_description_TW : "Un fungo fiammeggiante che cresce sulle terre bruciate degli altipiani del sud."
+
+consume_wintercap_TW : "Cappelli artici"
+consume_wintercap_description_TW : "Un fungo ghiacciato che cresce sulle rive della tundra del nord."
+
+consume_ashenroot_TW : "Radice cinerea"
+consume_ashenroot_description_TW : "Una radice dal sapore dolce che cresce solo nell'estremo sud"
+consume_primalleak_TW : "Erba primordiale"
+consume_primalleak_description_TW : "Una pianta che si è adattata alle condizioni climatiche avverse del rigido nord."
+
+sapling_tundraberry_TW : "Bacca della tundra piantina"
+sapling_primalleak_TW : "Erba primordiale piantina"
+sapling_mushroomwintercap_TW : "Cappelli artici piantina"
+sapling_ashenroot_TW : "Radice cinerea piantina"
+sapling_firelilly_TW : "Bocciolo infuocato piantina"
+sapling_mushroomflamecap_TW : "Cappelli fiammanti piantina"
+
+deepnorth_pinetree_TW: "Albero di pino boreale"
+deepnorth_deadpinetree_TW: "Albero di pino boreale morto"
+deepnorth_pinewood_TW: "Legno di pino boreale"
+deepnorth_pinewood_description_TW: "Legno di pino boreale proveniente dal Deep North, utilizzato per la lavorazione e la costruzione."
+sapling_borealpinetree_TW: "Alberello di pino boreale"
+sapling_borealtree_TW: "Alberello boreale"
+borealpinetree_cone_TW: "Pigna di pino boreale"
+borealpinetree_cone_description_TW: "Piantala per far crescere un albero di pino boreale."
+borealtree_cone_TW: "Pigna di albero boreale"
+borealtree_cone_description_TW: "Piantala per far crescere un albero boreale."
+
+##STATUSEFFECTS##
+SE_Executioner_TW : "Boia"
+SE_Executioner15_description_TW : "Aumenta del 15% i danni contro i nemici con meno del 25% di salute."
+SE_Executioner20_description_TW : "Aumenta del 20% i danni contro i nemici con meno del 25% di salute."
+SE_Executioner25_description_TW : "Aumenta del 25% i danni contro i nemici con meno del 25% di salute."
+SE_Piercer_TW : "Piercer"
+SE_Piercer4_description_TW : "Abbassa la resistenza alla perforazione del tuo avversario al 4° colpo."
+SE_Smasher_TW : "Distruttore"
+SE_Smasher6_description_TW : "Abbassa la resistenza al colpo del tuo avversario al 6° colpo."
+SE_Decapitator_TW : "Decapitatore"
+SE_Decapitator4_description_TW : "Abbassa la resistenza al taglio del tuo avversario al 4° colpo."
+SE_Slasher_TW : "Taglio"
+SE_Slasher6_description_TW : "Abbassa la resistenza al taglio dei tuoi avversari al 6° colpo."
+SE_Haste_TW : "Fretta"
+SE_Haste_description_TW : "Aumenta la tua velocità di movimento al 6° colpo."
+SE_Ablaze_TW : "In fiamme"
+SE_Ablaze_description_TW : "Incendia i tuoi nemici con danni da fuoco aggiuntivi nel tempo con un attacco secondario."
+SE_Impale_TW : "Impalare"
+SE_Impale_description_TW : "Perfora i tuoi nemici con danni da sanguinamento aggiuntivi nel tempo con un attacco secondario."
+SE_Bleeding_TW : "Sanguinamento"
+SE_Bleeding_description_TW : "Taglia i tuoi nemici con danni da sanguinamento extra nel tempo al 5° colpo."
+SE_Rip_TW : "Strappa"
+SE_Rip_description_TW : "Affetta i tuoi nemici con danni da sanguinamento aggiuntivi nel tempo con un attacco secondario."
+SE_Hunger_TW : "Divorare"
+SE_Hunger_description_TW : "Afferra i tuoi nemici riducendo la resistenza ogni 6 colpi e distruggi i tuoi nemici per danni extra da sanguinamento nel tempo con un attacco secondario."
+SE_Skystrike_TW : "Congelamento"
+SE_Skystrike_description_TW : "All'impatto congela i tuoi nemici bloccati nella loro posizione per un breve momento."
+SE_Vampirism_TW : "Vampirismo"
+SE_Vampirism_description_TW : "Dipendenza sanguigna, raccogliere i tuoi nemici per ripristinare la salute al 4° colpo."
+SE_Adrenaline_TW : "Adrenalina"
+SE_Adrenaline_description_TW : "Alimentato dal combattimento, ripristina una percentuale della tua resistenza al 5° colpo."
+SE_Bash_TW : "Bash"
+SE_Bash2_description_TW : "Ogni colpo ha una probabilità del 2% di stordire i tuoi nemici, interrompendoli."
+SE_Bash3_description_TW : "Ogni colpo ha una probabilità del 3% di stordire i tuoi nemici, interrompendoli."
+SE_Bash4_description_TW : "Ogni colpo ha una probabilità del 4% di stordire i tuoi nemici, interrompendoli."
+SE_Bash5_description_TW : "Ogni colpo ha una probabilità del 5% di stordire i tuoi nemici, interrompendoli."
+SE_Bash6_description_TW : "Ogni colpo ha una probabilità del 6% di stordire i tuoi nemici, interrompendoli."
+SE_Bash7_description_TW : "Ogni colpo ha una probabilità del 7% di stordire i tuoi nemici, interrompendoli."
+SE_Bash8_description_TW : "Ogni colpo ha una probabilità dell'8% di stordire i tuoi nemici, interrompendoli."
+SE_Crusher_TW : "Frantoio"
+SE_Crusher_description_TW : "Abbassa la resistenza al colpo del tuo avversario al 4° colpo."
+SE_Meteor_TW : "Fuoco e zolfo"
+SE_Meteor_description_TW : "Genera un proiettile meteorico dal cielo con un attacco secondario."
+  
+SE_protezione_TW: "Protetto"
+SE_frostprotection_description_TW: "Ti protegge dal gelo."
+SE_fireprotection_description_TW: "Ti protegge dal fuoco."
+
+
+
+
+
+
+

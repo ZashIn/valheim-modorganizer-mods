@@ -1,0 +1,159 @@
+## TRADUÇÃO PARA O PORTUGUÊS BRASILEIRO MONSTRUM ##
+
+##MONTAR##
+saddle_boar_TW: "Sela de Javali"
+saddle_boar_description_TW: "Usada para montar um Javali, vai ser uma viagem agitada!"
+saddle_bear_TW: "Sela de Urso"
+saddle_bear_description_TW: "Usada para montar qualquer Urso, mantenha-o na coleira curta!"
+saddle_prowler_TW: "Sela de Prowler"
+saddle_prowler_description_TW: "Usada para montar um Prowler, não o agarre pelas crinas!"
+mount_TW: "Montaria"
+
+##PEÇAS##
+piece_rug_rotten_TW: "Tapete Podre"
+piece_rug_blackbear_TW: "Tapete de Urso Negro"
+piece_rug_grizzlybear_TW: "Tapete de Urso Pardo"
+piece_rug_fox_TW: "Tapete de Raposa"
+
+##ITENS##
+mat_foxpelt_TW: "Pele de Raposa"
+mat_foxpeltpelt_description_TW: "Uma bela e majestosa pele vermelha de uma raposa."
+
+##TROFÉUS DO PRADO##
+trophy_fox_TW: "Troféu de Raposa"
+trophy_fox_description_TW: "Você só pegará uma raposa sendo tão astuto quanto ela."
+trophy_fox_TW_lore: "As raposas rondam as pradarias em busca de uma refeição fácil."
+
+##TROFÉUS DA FLORESTA NEGRA##
+trophy_blackbear_TW: "Troféu de Urso Negro"
+trophy_blackbear_description_TW: "Um grande troféu para afugentar ladrões de massas."
+trophy_blackbear_TW_lore: "Os ursos negros caçam a Floresta Negra, são caçadores formidáveis que não devem ser subestimados."
+trophy_razorback_TW: "Troféu de Razorback"
+trophy_razorback_description_TW: "Os dentes continuam crescendo até perfurar o cérebro."
+trophy_razorback_TW_lore: "Os ferozes Razorbacks são conhecidos por atacar diante do perigo quando ameaçados."
+
+##TROFÉUS DO PÂNTANO##
+trophy_rottingelk_TW : "Rotting elk trophy"
+trophy_rottingelk_description_TW : "You see it's eyes twitching, is that a maggot?"
+trophy_rottingelk_TW_lore : "These undead elks have absorbed the poisonous fumes of the Swamp in their pelts."
+trophy_crawler_TW : "Crawler trophy"
+trophy_crawler_description_TW : "You can still hear it's monstrous screams.."
+trophy_crawler_TW_lore : "These monstrous serpentines spit poison at the eyes of their enemies before they rip them apart."
+
+##TROFÉUS DA PLANICIE##
+trophy_prowler_TW: "Troféu de Prowler"
+trophy_prowler_description_TW: "É melhor não deixar este gatinho arranhar seu sofá..."
+trophy_prowler_TW_lore: "Eles rondam a savana em busca de presas, esses felinos ganharam o título de 'Última Sombra' por direito próprio."
+
+##TROFÉUS DA MONTANHA##
+trophy_grizzlybear_TW: "Troféu de Urso Pardo"
+trophy_grizzlybear_description_TW: "Um troféu digno de caçadores para ser exibido em um salão de hidromel."
+trophy_grizzlybear_TW_lore: "Os ursos pardos patrulham a cordilheira, nem todo viking vive para contar a história de encontrar um."
+trophy_obsidiangolem_TW: "Troféu de Golem de Obsidiana"
+trophy_obsidiangolem_description_TW: "O vidro vulcânico escuro é tanto bonito quanto afiado."
+trophy_obsidiangolem_TW_lore: "Os golems de obsidiana afiada das montanhas perfuram suas presas."
+
+##MONSTROS##
+
+##PRADO##
+fox_TW: "Raposa"
+foxcub_TW: "Filhote de Raposa"
+
+##FLORESTA NEGRA##
+blackbear_TW: "Urso Negro"
+blackbearcub_TW: "Filhote de Urso Negro"
+razorback_TW: "Razorback"
+razorbackpiglet_TW: "Filhote de Razorback"
+
+##PANTANO##
+rottingelk_TW: "Alce Apodrecido"
+crawler_TW: "Rastejador"
+helwraith_TW: "Wraith de Hel"
+
+##MONTANHAS##
+grizzlybear_TW: "Urso Pardo"
+grizzlybearcub_TW: "Filhote de Urso Pardo"
+obsidiangolem_TW: "Golem de Obsidiana"
+
+##PLANÍCIES##
+prowler_TW: "Prowler"
+prowlercub_TW: "Filhote de Prowler"
+
+##BOSS LOCATIONS##
+vegvisir_TW: "Vegvisir"
+
+##ASMODEUS##
+asmodeus_discover_TW: "Santuário da Língua da Praga"
+trophy_asmodeus_TW: "Troféu de Asmodeus"
+trophy_asmodeus_description_TW: "Mesmo na morte, seu olhar é hipnotizante..."
+trophy_asmodeus_TW_lore: "Asmodeus é um servo do deus Loki, como um dos senhores víperos, ele vigia sobre os portões dos reinos de Hel."
+boss_asmodeus_TW: "Asmodeus"
+deadspeak_asmodeus: "Mortal amaldiçoado... que meu veneno apodreça em suas veias!"
+asmodeus_summon: "Você despertou o faminto!"
+asmodeus_defeat: "Você derrotou o faminto!"
+altar_asmodeus_TW: "Crânio de Vípera Antigo"
+altar_asmodeus_description_TW: "Desafie o faminto."
+runestone_asmodeus_TW: "O faminto"
+runestone_asmodeus_description_TW: "Nos tempos antigos, os pigmeus temiam sair ao anoitecer, pois na escuridão espreitava Svält, o devorador de sonhos... os xamãs usavam magia de sangue para banir ele para o reino de Surtr."
+mappin_asmodeus_TW: "Asmodeus"
+
+##SVALT##
+svalt_discover_TW: "Túmulo Antigo"
+trophy_svalt_TW: "Troféu de Svalt"
+trophy_svalt_description_TW: "Ainda goteja veneno do crânio da criatura..."
+trophy_svalt_TW_lore: "Svält foi selado no reino de Surtr. Ele era conhecido como o devorador de sonhos, rondando as noites no mundo antigo."
+boss_svalt_TW: "Svält"
+deadspeak_svalt: "Posso sentir seu medo mortal... liberte-me e incendiaremos juntos este mundo!"
+svalt_summon: "Você libertou um mal antigo!"
+svalt_defeat: "Você derrotou o devorador de sonhos!"
+damnedskeleton_TW: "Fome Ardente"
+altar_svalt_TW: "Selo de Magia de Sangue"
+altar_svalt_description_TW: "Liberte o devorador de sonhos."
+runestone_svalt_TW: "O devorador de sonhos."
+runestone_svalt_description_TW: "Nos dias antigos, os greydwarves temiam sair ao entardecer, pois na escuridão espreitava Svält, o devorador de sonhos... os xamãs usavam magia de sangue para banir ele para o reino de Surtr."
+mappin_svalt_TW: "Svält"
+location_svalt: "Câmara de Ritual"
+gdancientshaman_TW: "Xamã Antigo"
+ancientroot_TW: "Raiz Antiga"
+ancientshaman_speech1: "Como você se atreve a pisar nestes terrenos sagrados, mortal!"
+ancientshaman_speech2: "O devorador de sonhos permanecerá selado longe deste reino!"
+
+##VRYKOLATHAS##
+vrykolathas_discover_TW: "Tributo a Hel"
+trophy_vrykolathas_TW: "Troféu de Vrykolathas"
+trophy_vrykolathas_description_TW: "Seu olhar desfaz sua mente em redemoinhos do vazio."
+trophy_vrykolathas_TW_lore: "Vrykolathas é o arauto da deusa da morte em pessoa. O campeão de Hel ceifou e reivindicou muitas almas em seu nome."
+boss_vrykolathas_TW: "Vrykolathas"
+deadspeak_vrykolathas: "Você pode ouvir seus gritos assombrados? Eles estão implorando para que você se junte a eles no submundo, mortal!"
+vrykolathas_summon: "Você invocou o campeão de Hel!"
+vrykolathas_defeat: "Você derrotou a escuridão de Niflheim!"
+damnedsummon_TW: "Alma Amaldiçoada"
+altar_vrykolathas_TW: "Caldeirão de Hel"
+altar_vrykolathas_description_TW: "Desafie a deusa da morte."
+runestone_vrykolathas_TW: "O fantasma"
+runestone_vrykolathas_description_TW: "Banida para governar o submundo de Niflheim, Hel comanda uma força inesgotável de monstros mortos-vivos. Seus agentes espectrais vagam pelos céus, procurando almas perdidas para reivindicar como suas."
+mappin_vrykolathas_TW: "Vrykolathas"
+
+##EFEITOS DE STATUS##
+se_monstrum_bitestun_TW: "Presa"
+se_monstrum_biteslow_TW: "Enfraquecido"
+se_monstrum_pincer_TW: "Beliscado"
+se_monstrum_scorpidsting_TW: "Veneno de Escorpião"
+
+##COMIDA##
+food_rottenelkmeat_TW: "Carne de Alce Apodrecida"
+food_rottenelkmeat_description_TW: "O mau cheiro sozinho faz seu estômago revirar."
+food_foxmeat_TW: "Carne de Raposa Crua"
+food_foxmeat_description_TW: "Esta raposa não conseguiu enganar o fazendeiro."
+food_cookedfoxmeat_TW: "Carne de Raposa Cozida"
+food_cookedfoxmeat_description_TW: "Uma pequena mordida enche o estômago de um homem!"
+food_foxjerky_TW: "Carne Seca de Raposa"
+food_foxjerky_description_TW: "Temperada com mel para mantê-lo alerta!"
+food_bearsteak_TW: "Bife de Urso Cru"
+food_bearsteak_description_TW: "Um pedaço de bife de urso macio"
+food_cookedbearsteak_TW: "Bife de Urso Cozido"
+food_cookedbearsteak_description_TW: "Adicione sal e pimenta para um tratamento delicioso!"
+food_bearjerky_TW: "Carne Seca de Urso"
+food_bearjerky_description_TW: "Doce e salgado!"
+food_mixedgrill_TW: "Churrasco Misto"
+food_mixedgrill_description_TW: "O sonho de um amante de carne."

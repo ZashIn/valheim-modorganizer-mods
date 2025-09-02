@@ -1,0 +1,171 @@
+## ENGLISH TRANSLATION MONSTRUM##
+vegvisir_TW : "Vegvisir"
+
+##MOUNT##
+saddle_boar_TW: "Razorback saddle"
+saddle_boar_description_TW: "Used to mount a Razorback, it's gonna be a bumpy ride!"
+saddle_bear_TW: "Bear saddle"
+saddle_bear_description_TW: "Used to mount any Bear, keep it on a short leash!"
+saddle_prowler_TW: "Prowler saddle"
+saddle_prowler_description_TW: "Used to mount a Prowler, don't grab it by the manes!"
+mount_TW: "Mount"
+
+##PIECES##
+piece_rug_rotten_TW : "Rotten rug"
+piece_rug_blackbear_TW : "Black bear rug"
+piece_rug_grizzlybear_TW : "Grizzly rug"
+piece_rug_fox_TW : "Fox rug"
+
+##ITEMS##
+mat_foxpelt_TW : "Fox pelt"
+mat_foxpeltpelt_description_TW : "A beautiful, majestic red pelt of a fox."
+  
+##MEADOWS TROPHIES##
+trophy_fox_TW : "Fox trophy"
+trophy_fox_description_TW : "You'll catch a fox only by being as cunning as one."
+trophy_fox_TW_lore : "The foxes prowl the meadows, looking for an easy meal."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "Black bear trophy"
+trophy_blackbear_description_TW : "A great trophy to scare off pasta thieves."
+trophy_blackbear_TW_lore : "The black bears hunt the Black Forest, they are formidable hunters that should not be underestimated."
+trophy_razorback_TW : "Razorback trophy"
+trophy_razorback_description_TW : "The tusks keep growing till they pierce the brain."
+trophy_razorback_TW_lore : "The fierce razorbacks are known to charge in the face of danger when threatened."
+##SWAMP TROPHIES##
+trophy_rottingelk_TW : "Rotting elk trophy"
+trophy_rottingelk_description_TW : "You see it's eyes twitching, is that a maggot?"
+trophy_rottingelk_TW_lore : "These undead elks have absorbed the poisonous fumes of the Swamp in their pelts."
+trophy_crawler_TW : "Crawler trophy"
+trophy_crawler_description_TW : "You can still hear it's monstrous screams.."
+trophy_crawler_TW_lore : "These monstrous serpentines spit poison at the eyes of their enemies before they rip them apart."
+##PLAINS TROPHIES##
+trophy_prowler_TW : "Prowler trophy"
+trophy_prowler_description_TW : "Better not let this kitty scratch your sofa.."
+trophy_prowler_TW_lore : "They stalk the savannah in search of prey, these felines have earned their rightful title as 'Last shadow'"
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "Grizzly bear trophy"
+trophy_grizzlybear_description_TW : "A worth hunters trophy to be hanged at display in a mead hall."
+trophy_grizzlybear_TW_lore : "The grizzly's patrol the mountain range, not every viking gets to live to tell the tale of meeting one."
+trophy_obsidiangolem_TW : "Obsidian golem trophy"
+trophy_obsidiangolem_description_TW : "The dark volcanic glass is both beautiful and sharp."
+trophy_obsidiangolem_TW_lore : "The sharpened obsidian golems of the mountains pierce their prey."
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "Fox"
+foxcub_TW : "Fox cub"
+##BLACKFOREST##
+blackbear_TW : "Black bear"
+blackbearcub_TW : "Black bear cub"
+razorback_TW : "Razorback"
+razorbackpiglet_TW : "Razorback piglet"
+##SWAMP##
+rottingelk_TW : "Rotting elk"
+crawler_TW : "Crawler"
+helwraith_TW : "Hel wraith"
+##MOUNTAINS##
+grizzlybear_TW : "Grizzly bear"
+grizzlybearcub_TW : "Grizzly cub"
+obsidiangolem_TW : "Obsidian golem"
+##PLAINS##
+prowler_TW : "Prowler"
+prowlercub_TW: "Prowler cub"
+
+##OCEAN##
+shark_TW : "Bloodgill"
+trophy_shark_TW : "Bloodgill trophy"
+trophy_shark_description_TW : "We're gonna need a bigger boat.."
+trophy_shark_TW_lore : "A drop of blood is all it takes for these monstrous predators to find their prey."
+
+##ASMODEUS BOSS##
+asmodeus_discover_TW : "Plaguetongue shrine"
+trophy_asmodeus_TW : "Asmodeus trophy"
+trophy_asmodeus_description_TW : "Even in dead it's stare is hypnotizing.. "
+trophy_asmodeus_TW_lore : "Asmodeus is a servant of the god Loki, as one of the viper lords, he watches over the gates to the realms of Hel."
+boss_asmodeus_TW : "Asmodeus"
+deadspeak_asmodeus : "Curssssed mortal.. may my poisssson rot in your veinssss!"
+asmodeus_summon : "You have awakened the hungering one.."
+asmodeus_defeat : "You have defeated the hungering one!"
+altar_asmodeus_TW: "Ancient viper skull"
+altar_asmodeus_description_TW: "Challenge the hungering one.."
+runestone_asmodeus_TW : "The hungering one"
+runestone_asmodeus_description_TW : "The ancient vipers of old were known for their insatiable hunger, the Necks went nearly extinct when these monsters roamed the world of Valheim.."
+mappin_asmodeus_TW : "Asmodeus"
+
+##SVALT BOSS##
+svalt_discover_TW : "Ancient tomb"
+trophy_svalt_TW : "Svält trophy"
+trophy_svalt_description_TW : "Venom still drips from the monster's skull.."
+trophy_svalt_TW_lore : "Svält was sealed away to the realm of Surtr. He was known as the devourer of dreams, stalking the nights in the old world."
+boss_svalt_TW : "Svält"
+deadspeak_svalt : "I can taste your fear mortal.. release me and we shall set this world ablaze together!"
+svalt_summon : "You have released an ancient evil!"
+svalt_defeat : "You have defeated the devourer of dreams!"
+damnedskeleton_TW : "Burning hunger"
+altar_svalt_TW: "Blood magic seal"
+altar_svalt_description_TW: "Release the devourer of dreams.."
+runestone_svalt_TW : "The devourer of dreams.."
+runestone_svalt_description_TW : "In the days of old, the greydwarves dreaded going out at dusk as in the darkness lurked Svält, the dream devourer.. the shamans used blood magic to banish him away to the realm of Surtr."
+mappin_svalt_TW : "Svält"
+location_svalt : "Ritual chamber"
+gdancientshaman_TW : "Ancient shaman"
+ancientroot_TW : "Ancient root"
+ancientshaman_speech1 : "How dare you set foot on these sacred grounds mortal!"
+ancientshaman_speech2 : "The dream devourer will remain sealed away from this realm!"
+
+##VRYKOLATHAS BOSS##
+vrykolathas_discover_TW : "Hel's tribute"
+trophy_vrykolathas_TW : "Vrykolathas trophy"
+trophy_vrykolathas_description_TW : "It's gaze ravels your mind in swirling mists of the void. "
+trophy_vrykolathas_TW_lore : "Vrykolathas is the harbringer of the goddes of death herself. Hel's champion has reaped and claimed many souls in her honour."
+boss_vrykolathas_TW : "Vrykolathas"
+deadspeak_vrykolathas : "Can you hear their haunting screams? They are begging you to join them in the underworld mortal!"
+vrykolathas_summon : "You have summoned Hel's champion.."
+vrykolathas_defeat : "You have defeated the darkness from Niflheim!"
+damnedsummon_TW : "Damned soul"
+altar_vrykolathas_TW: "Hel's brazier"
+altar_vrykolathas_description_TW: "Challenge the goddess of death.."
+runestone_vrykolathas_TW : "The phantom"
+runestone_vrykolathas_description_TW : "Banished to rule the underworld of Niflheim, Hel commands a never dwindling force of undead monstrosities. Her wraith agents roam the skies, searching for lost souls to claim as her own."
+mappin_vrykolathas_TW : "Vrykolathas"
+
+##SE##
+se_monstrum_bitestun_TW : "Pinned"
+se_monstrum_biteslow_TW : "Crippled"
+se_monstrum_pincer_TW : "Pincered"
+se_monstrum_scorpidsting_TW : "Scorpid venom"
+se_monstrum_chompstun_TW : "Chomped"
+se_monstrum_rupturedslow_TW : "Ruptured"
+
+##FOOD##
+food_rottenelkmeat_TW : "Rotten elk meat"
+food_rottenelkmeat_description_TW : "The stench alone makes your stomach turn upside down."
+food_foxmeat_TW : "Raw fox meat"
+food_foxmeat_description_TW : "This fox did not manage to trick the farmer."
+food_cookedfoxmeat_TW : "Cooked fox meat"
+food_cookedfoxmeat_description_TW : "One small bite fills a man's stomach!"
+food_foxjerky_TW : "Fox jerky"
+food_foxjerky_description_TW : "Seasoned with honey to keep you on your toes!"
+food_bearsteak_TW : "Raw bear steak"
+food_bearsteak_description_TW : "A chunk of tender bear steak"
+food_cookedbearsteak_TW : "Cooked bear steak"
+food_cookedbearsteak_description_TW : "Add salt and pepper for a delicious treat!"
+food_bearjerky_TW : "Bear jerky"
+food_bearjerky_description_TW : "Sweet and salty!"
+food_mixedgrill_TW : "Mixed grill"
+food_mixedgrill_description_TW : "A meat lovers dream."
+food_sharkmeat_TW : "Bloodgill meat"
+food_sharkmeat_description_TW : "A bloody slice of salty shark meat."
+food_cookedsharkmeat_TW : "Cooked Bloodgill meat"
+food_cookedsharkmeat_description_TW : "Steak of the sea, you can't help but drool."
+food_sharkfin_TW : "Bloodgill fin"
+food_sharkfin_description_TW : "You can make delicious soup out of these, maybe even start a species threatening market.."
+food_sharkfinsoup_TW : "Bloodgill fin soup"
+food_sharkfinsoup_description_TW : "Salt and spicy soup that will cure any cold! Imbues you with eitr regenration."
+food_sharkfinsoup_SE : "Sanguine"
+food_sharkfinsoup_SE_description : "Fills your belly and increases your eitr regeneration."
+
+##RAVEN##
+BossStones_topic_TW : "You've discovered a place of power!"
+BossStones_text_TW : "Ancient magic resides here, maybe the gods will grant you their blessing for a worthy sacrifice?"

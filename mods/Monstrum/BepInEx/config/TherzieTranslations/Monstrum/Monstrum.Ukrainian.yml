@@ -1,0 +1,171 @@
+## ENGLISH TRANSLATION MONSTRUM##
+vegvisir_TW : "Вегвізир"
+
+##MOUNT##
+saddle_boar_TW: "Сідло залізоспина"
+saddle_boar_description_TW: "Щоб осідлати залізоспина, це буде забоїста поїздка!"
+saddle_bear_TW: "Ведмеже сідло"
+saddle_bear_description_TW: "Щоб осідлати будь-якого ведмедя, тримай його на короткому повідці!"
+saddle_prowler_TW: "Сідло Бродяги"
+saddle_prowler_description_TW: "Щоб осідлати Бродягу, не тягни його за гриву!"
+mount_TW: "Їздова тварина"
+
+##PIECES##
+piece_rug_rotten_TW : "Гнилий килимок"
+piece_rug_blackbear_TW : "Килим з чорного ведмедя"
+piece_rug_grizzlybear_TW : "Килим з Грізлі"
+piece_rug_fox_TW : "Лисячий килим"
+
+##ITEMS##
+mat_foxpelt_TW : "Шкура лисиці"
+mat_foxpeltpelt_description_TW : "Прекрасна, велична червона шкура лисиці."
+  
+##MEADOWS TROPHIES##
+trophy_fox_TW : "Лисячий трофей"
+trophy_fox_description_TW : "Тільки будучи хитрим, лисицю впіймаєш."
+trophy_fox_TW_lore : "Лисиці нишпорять по левадах, шукаючи легкої їжі."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "Трофей чорного ведмедя"
+trophy_blackbear_description_TW : "Чудовий трофей, щоб відлякати макаронних злодіїв."
+trophy_blackbear_TW_lore : "Чорні ведмеді полюють у Чорноліссі, це грізні мисливці, яких не можна недооцінювати."
+trophy_razorback_TW : "Трофей залізоспина"
+trophy_razorback_description_TW : "Бивні ростуть аж поки не проколять мозок."
+trophy_razorback_TW_lore : "Відомо, що жорстокі залізоспини атакують перед лицем небезпеки, коли їм загрожують."
+##SWAMP TROPHIES##
+trophy_rottingelk_TW : "Трофей Гнилося"
+trophy_rottingelk_description_TW : "Бачиш, у нього очі смикаються, це личинка?"
+trophy_rottingelk_TW_lore : "Ці неживі лосі ввібрали в свої шкури отруйні пари болота."
+trophy_crawler_TW : "Трофей Повзуна"
+trophy_crawler_description_TW : "Ви все ще можете почути його жахливі крики."
+trophy_crawler_TW_lore : "Ці жахливі змії плюють отрутою в очі своїм ворогам, перш ніж розірвати їх на частини."
+##PLAINS TROPHIES##
+trophy_prowler_TW : "Трофей Бродяги"
+trophy_prowler_description_TW : "Краще не дозволяйте цьому кошеня подряпати ваш диван."
+trophy_prowler_TW_lore : "Вони полюють у Рівнинах в пошуках здобичі, ці котячі заслужили свою законну назву «Остання тінь»"
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "Трофей грізлі"
+trophy_grizzlybear_description_TW : "Достойний мисливський трофей, який можна повісити на виставці в медовому зал."
+trophy_grizzlybear_TW_lore : "Грізлі патрулюють гірський хребет, не кожен вікінг доживає до того, щоб розповісти про зустріч з ним."
+trophy_obsidiangolem_TW : "Трофей обсидіанового голема"
+trophy_obsidiangolem_description_TW : "Темне вулканічне сткло такеж гарне, як і гостре."
+trophy_obsidiangolem_TW_lore : "Загострені обсидіанові ґолеми гір пронизують свою здобич."
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "Лис"
+foxcub_TW : "Лисеня"
+##BLACKFOREST##
+blackbear_TW : "Чорний ведмідь"
+blackbearcub_TW : "Чорне ведмежа"
+razorback_TW : "Залізоспин"
+razorbackpiglet_TW : "Порося залізоспина"
+##SWAMP##
+rottingelk_TW : "Гнилось"
+crawler_TW : "Повзун"
+helwraith_TW : "Пекельна примара"
+##MOUNTAINS##
+grizzlybear_TW : "Ведмідь грізлі"
+grizzlybearcub_TW : "Ведмежа грізлі"
+obsidiangolem_TW : "Обсидіановий голем"
+##PLAINS##
+prowler_TW : "Бродяга"
+prowlercub_TW: "Кошеня Бродяги"
+
+##OCEAN##
+shark_TW : "Кровопивця"
+trophy_shark_TW : "Трофей кровопивці"
+trophy_shark_description_TW : "Нам потрібен більший човен..."
+trophy_shark_TW_lore : "Крапля крові — це все, що потрібно, щоб ці жахливі хижаки знайшли свою жертву."
+
+##ASMODEUS BOSS##
+asmodeus_discover_TW : "Храм чуми"
+trophy_asmodeus_TW : "Трофей Асмодея"
+trophy_asmodeus_description_TW : "Його погляд гіпнотизує навіть мертвих... "
+trophy_asmodeus_TW_lore : "Асмодей — слуга бога Локі, як один із володарів гадюк, він спостерігає за воротами до царств Хель."
+boss_asmodeus_TW : "Асмодей"
+deadspeak_asmodeus : "Проклятий ссссмертний... неххххай моя отрута гниє в твоїх жилахххх!"
+asmodeus_summon : "Ти розбудив голодного..."
+asmodeus_defeat : "Ти переміг голодного!"
+altar_asmodeus_TW: "Череп древньої змії"
+altar_asmodeus_description_TW: "Киньте виклик голодному..."
+runestone_asmodeus_TW : "Голодний"
+runestone_asmodeus_description_TW : "Стародавні гадюки були відомі своїм ненаситним голодом, Водяникм майже вимерли, коли ці монстри бродили світом Вальгейму..."
+mappin_asmodeus_TW : "Асмодей"
+
+##SVALT BOSS##
+svalt_discover_TW : "Древня гробниця"
+trophy_svalt_TW : "Трофей Свельта"
+trophy_svalt_description_TW : "З черепа монстра досі капає отрута..."
+trophy_svalt_TW_lore : "Свельт був запечатаний до царства Суртра. Він був відомий як пожирач снів, що переслідує ночі в старому світі."
+boss_svalt_TW : "Свельт"
+deadspeak_svalt : "Я відчуваю смак твого смертного страху... Випусти мене, і ми разом спалимо цей світ!"
+svalt_summon : "Ти звільнив древнє зло!"
+svalt_defeat : "Ти переміг пожирача снів!"
+damnedskeleton_TW : "Палаючий голод"
+altar_svalt_TW: "Печатка магії крові"
+altar_svalt_description_TW: "Звільни пожирача снів..."
+runestone_svalt_TW : "Пожирач снів."
+runestone_svalt_description_TW : "У давні часи сірі гноми боялися виходити в сутінках, оскільки в темряві ховався Свельт, пожирач снів... шамани використали магію крові, щоб вигнати його до королівства Суртра."
+mappin_svalt_TW : "Свельт"
+location_svalt : "Ритуальна кімната"
+gdancientshaman_TW : "Древній шаман"
+ancientroot_TW : "Древній корінь"
+ancientshaman_speech1 : "Як ти смієш ступати на ці священні землі, смертний!"
+ancientshaman_speech2 : "Пожирач снів залишиться запечатаним поза цим світом!"
+
+##VRYKOLATHAS BOSS##
+vrykolathas_discover_TW : "Данина Хелю"
+trophy_vrykolathas_TW : "Трофей Вриколатаса"
+trophy_vrykolathas_description_TW : "Його погляд плутає ваш розум у закручених туманах порожнечі. "
+trophy_vrykolathas_TW_lore : "Вриколатас є провісником самих богинь смерті. Чемпіон Хеля зібрав і забрав багато душ на свою честь."
+boss_vrykolathas_TW : "Вриколатас"
+deadspeak_vrykolathas : "Ви чуєте їхні нестерпні крики? Вони благають вас приєднатися до них у підземному світі, смертні!"
+vrykolathas_summon : "Ви викликали чемпіона Хеля."
+vrykolathas_defeat : "Ви перемогли темряву з Ніфльхейму!"
+damnedsummon_TW : "Проклята душа"
+altar_vrykolathas_TW: "Мангал Хель"
+altar_vrykolathas_description_TW: "Киньте виклик богині смерті."
+runestone_vrykolathas_TW : "Фантом"
+runestone_vrykolathas_description_TW : "Вигнаний правити підземним світом Ніфльхейму, Хель керує незмінною силою нежиті. Її агенти-примари блукають небом, шукаючи загублені душі, щоб забрати як її власність."
+mappin_vrykolathas_TW : "Вриколатас"
+
+##SE##
+se_monstrum_bitestun_TW : "Притиснутий"
+se_monstrum_biteslow_TW : "Скалічений"
+se_monstrum_pincer_TW : "Вщипнутий"
+se_monstrum_scorpidsting_TW : "Отрута скорпідів"
+se_monstrum_chompstun_TW : "Загризений"
+se_monstrum_rupturedslow_TW : "Розірваний"
+
+##FOOD##
+food_rottenelkmeat_TW : "М'ясо Гнилося"
+food_rottenelkmeat_description_TW : "Від одного смороду вивертає шлунок."
+food_foxmeat_TW : "Сире м'ясо лиса"
+food_foxmeat_description_TW : "Цьому лису не вдалося обдурити фермера."
+food_cookedfoxmeat_TW : "Приготоване м'ясо лиса"
+food_cookedfoxmeat_description_TW : "Oдин маленький шматочок наповнює шлунок чоловіка!"
+food_foxjerky_TW : "В'ялене м'ясо лиса"
+food_foxjerky_description_TW : "Приправлений медом, щоб тримати вас на ногах!"
+food_bearsteak_TW : "Сирий ведмежий стейк"
+food_bearsteak_description_TW : "Шматок ніжного ведмежого стейка"
+food_cookedbearsteak_TW : "Приготований ведмежий стейк"
+food_cookedbearsteak_description_TW : "Додайте сіль і перець для смачного частування!"
+food_bearjerky_TW : "В'ялена ведмежатина"
+food_bearjerky_description_TW : "Солодка і солона!"
+food_mixedgrill_TW : "Змішаний гриль"
+food_mixedgrill_description_TW : "Мрія м'ясоїда"
+food_sharkmeat_TW : "М'ясо кровопивці"
+food_sharkmeat_description_TW : "Кривавий шмат солоного м'яса акули."
+food_cookedsharkmeat_TW : "Приготоване м'ясо кровопивці"
+food_cookedsharkmeat_description_TW : "Стейк моря, аж слинка тече."
+food_sharkfin_TW : "Плавник кровопивці"
+food_sharkfin_description_TW : "Ви можете приготувати з них смачний суп, можливо, навіть відкрити забігайлівку.."
+food_sharkfinsoup_TW : "Суп з плавника кровопивці"
+food_sharkfinsoup_description_TW : "Солоно-гострий суп, який вилікує будь-яку застуду! Пришвидшує відновлення Ейтиру."
+food_sharkfinsoup_SE : "Оптимістичний"
+food_sharkfinsoup_SE_description : "Наповнює ваш шлунок і пришвидшує відновлення Ейтиру."
+
+##RAVEN##
+BossStones_topic_TW : "Ви знайшли місце сили!"
+BossStones_text_TW : "Тут живе стародавня магія, можливо, боги дадуть вам своє благословення за гідну жертву?"

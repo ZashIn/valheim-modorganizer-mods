@@ -1,0 +1,146 @@
+## ENGLISH TRANSLATION MONSTRUM##
+
+##MOUNT##
+saddle_boar_TW: "อานหมูป่าดำ"
+saddle_boar_description_TW: "สำหรับขี่หมูป่าดำ นั่งทีสะเทือนถึงไส้!"
+saddle_bear_TW: "อานหมี"
+saddle_bear_description_TW: "สำหรับขี่หมีทุกชนิด จับบังเหียนให้ดีล่ะ!"
+saddle_prowler_TW: "อานสิงห์"
+saddle_prowler_description_TW: "สำหรับขี่ไกรสิงห์ อย่าไปจับแผงคอมันเชียว!"
+mount_TW: "ขึ้นขี่"
+
+##FOOD##
+food_foxmeat_TW : "เนื้อจิ้งจอกดิบ"
+food_foxmeat_description_TW : "จิ้งจอกตัวนี้ไม่ได้จะมาวุ่นวายอะไรกับชาวสวน"
+food_cookedfoxmeat_TW : "เนื้อจิ้งจอกสุก"
+food_cookedfoxmeat_description_TW : "กัดสักคำก็อยู่ท้อง!"
+food_foxjerky_TW : "เนื้อจิ้งจอกอบแห้ง"
+food_foxjerky_description_TW : "ปรุงด้วยน้ำผึ้งเพื่อให้คุณตื่นตัว!"
+food_bearsteak_TW : "เนื้อหมีดิบ"
+food_bearsteak_description_TW : "เนื้อหมีดิบหั่นเสต็ก"
+food_cookedbearsteak_TW : "เสต็กเนื้อหมี"
+food_cookedbearsteak_description_TW : "โรยเกลือกับพริกไทย เพื่อความอร่อย!"
+food_bearjerky_TW : "เนื้อหมีอบแห้ง"
+food_bearjerky_description_TW : "รสหวานอมเค็ม!"
+food_mixedgrill_TW : "จานเนื้อย่าง"
+food_mixedgrill_description_TW : "สวรรค์ของคนรักเนื้อ"
+
+##PIECES##
+piece_rug_blackbear_TW : "พรมหนังหมีดำ"
+piece_rug_grizzlybear_TW : "พรมหมีกริซลี่"
+piece_rug_fox_TW : "พรมหนังจิ้งจอก"
+
+##ITEMS##
+mat_foxpelt_TW : "หนังจิ้งจอก"
+mat_foxpeltpelt_description_TW : "แผ่นหนังอันสวยงามของสุนัขจิ้งจอก"
+
+##MEADOWS TROPHIES##
+trophy_fox_TW : "ถ้วยรางวัลจิ้งจอก"
+trophy_fox_description_TW : "คุณจะจับจิ้งจอกได้ต่อเมื่อคุณมีไหวพริบมากพอ"
+trophy_fox_TW_lore : "เจ้าสุนัขจิ้งจอกที่ด้อม ๆ มอง ๆ อยู่ตามทุ่งหญ้า มันกำลังมองหาเหยื่อที่ล่าง่าย"
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "ถ้วยรางวัลหมีดำ"
+trophy_blackbear_description_TW : "เป็นถ้วยแปะผนังที่เหมาะเอาไว้ไล่โจร"
+trophy_blackbear_TW_lore : "เจ้าหมีดำออกล่าในป่าดำ มันเป็นนักล่าที่น่าเกรงขาม อย่าได้ดูถูกพวกมันเชียว"
+trophy_razorback_TW : "ถ้วยรางวัลหมูดำ"
+trophy_razorback_description_TW : "เขี้ยวมันจะยาวเรื่อย ๆ จนทะลุกระโหลกเลย"
+trophy_razorback_TW_lore : "เจ้าหมูป่าที่ดุดัน พวกมันรู้จักการเผชิญหน้ากับอันตรายที่คุกคามมัน"
+##SWAMP TROPHIES##
+trophy_rottingelk_TW : "ถ้วยรางวัลกวางเน่า"
+trophy_rottingelk_description_TW : "ตรงลูกตามันขยับไปมา นั่นหนอนใช่มั้ยน่ะ?"
+trophy_rottingelk_TW_lore : "ผีกวางซอมบี้ที่หนังของมันซึมซับไอพิษของหนองน้ำเอาไว้เต็ม"
+trophy_crawler_TW : "ถ้วยรางวัลอสรพิษ"
+trophy_crawler_description_TW : "คุณยังได้ยิงเสียงมันครวญครางอยู่เลย.."
+trophy_crawler_TW_lore : "อสุรกายเลื้อยคลานจำพวกนี้พ่นพิษใส่ดวงตาของเหยื่อก่อนที่จะขย้ำกิน"
+##PLAINS TROPHIES##
+trophy_prowler_TW : "ถ้วยรางวัลไกรสิงห์"
+trophy_prowler_description_TW : "ระวังอย่าให้เจ้าแมวนี่ข่วนโซฟาคุณนะ.."
+trophy_prowler_TW_lore : "พวกมันย่างเยื้อหาเหยื่อในทุ่งหญ้าสะวันนา เจ้าแมวนักล่านี้มีฉายาว่า 'เงาสุดท้าย'"
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "ถ้วยรางวัลหมีกริซลี่"
+trophy_grizzlybear_description_TW : "ถ้วยรางวัลที่เหมาะเอาไปประดับที่ร้านเหล้า"
+trophy_grizzlybear_TW_lore : "หมีกริซลี่ออกล่าตามหุบเขา มีน้อยคนที่รอดชีวิตกลับมาเล่าเรื่องของมัน"
+trophy_obsidiangolem_TW : "ถ้วยรางวัลออบซิเดียนโกเลม"
+trophy_obsidiangolem_description_TW : "ผลึกภูเขาไฟสีดำที่ทั้งสวยงามและแหลมคม"
+trophy_obsidiangolem_TW_lore : "ออบซิเดียนโกเลมผู้แหลมคมแห่งขุนเขา จักทิ่มแทงสังหารเหยื่อ"
+
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "จิ้งจอก"
+foxcub_TW : "ลูกจิ้งจอก"
+##BLACKFOREST##
+blackbear_TW : "หมีดำ"
+blackbearcub_TW : "ลูกหมีดำ"
+razorback_TW : "หมูป่าดำ"
+razorbackpiglet_TW : "ลูกหมูดำ"
+##SWAMP##
+rottingelk_TW : "กวางเน่าเฟะ"
+crawler_TW : "อสรพิษ"
+helwraith_TW : "ผีนรก"
+##MOUNTAINS##
+grizzlybear_TW : "หมีกริซลี่"
+grizzlybearcub_TW : "ลูกหมีกริซลี่"
+obsidiangolem_TW : "ออบซิเดียนโกเลม"
+##PLAINS##
+prowler_TW : "ไกรสิงห์"
+prowlercub_TW: "ลูกสิงห์"
+
+##ASMODEUS BOSS##
+trophy_asmodeus_TW : "ถ้วยรางวัลแอสโมเดียส"
+trophy_asmodeus_description_TW : "ถึงตายไปแล้ว แต่มันยังจ้องสะกดจิตอยู่.. "
+trophy_asmodeus_TW_lore : "แอสโมเดียสเป็นบริวารของเทพโลกิในฐานะจ้าวแห่งอสรพิษ เขาเป็นผู้เฝ้าประตูสู่นรก"
+boss_asmodeus_TW : "แอสโมเดียส"
+deadspeak_asmodeus : "ข้าาาขอสาบเจ้า.. ให้เส้นเลือดของเจ้าเน่าาาา ด้วยพิษของข้าาาา!"
+asmodeus_summon : "คุณปลุกผู้หิวโหย.."
+asmodeus_defeat : "คุณปราบผู้หิวโหย!"
+altar_asmodeus_TW: "กระโหลกอสรพิษโบราณ"
+altar_asmodeus_description_TW: "ท้าทายต่อผู้หิวโหย.."
+runestone_asmodeus_TW : "ผู้หิวโหย"
+runestone_asmodeus_description_TW : "อสรพิษโบราณที่ขึ้นชื่อเรื่องเป็นผู้ที่มีความหิวโหยไม่สิ้นสุด เมื่อปีศาจตนนี้เยื้องย่างสู่โลกวัลไฮม์เหล่าเน็คเกือบจะสูญพันธุ์เลยทีเดียว.."
+mappin_asmodeus_TW : "แอสโมเดียส"
+
+##SVALT BOSS##
+trophy_svalt_TW : "ถ้วยรางวัลสวัลท์"
+trophy_svalt_description_TW : "พิษยังหยดมาจากกระโหลกมันอยู่เลย.."
+trophy_svalt_TW_lore : "สวัลท์ถูกจองจำอยู่ในอาณาจักรของเซอเทอร์ เขาเป็นที่รู้จักในนามผู้กลืนกินความฝันที่ออกล่าในยามวิกาล ณ โลกเก่า"
+boss_svalt_TW : "สวัลท์"
+deadspeak_svalt : "ข้าได้กลิ่นความกลัวจากเจ้า มนุษย์เอ๋ย.. ปลดปล่อยข้าสิ จากนั้นเรามาเผาผลาญโลกนี้ให้พินาศไปด้วยกัน!"
+svalt_summon : "คุณปลดปล่อยปีศาจโบราณ!"
+svalt_defeat : "คุณปราบผู้กลืนกินความฝัน!"
+damnedskeleton_TW : "ผู้หิวโหยที่มอดไหม้"
+altar_svalt_TW: "ผนึกอาคมโลหิต"
+altar_svalt_description_TW: "ปลดปล่อยผู้กลืนกินความฝัน.."
+runestone_svalt_TW : "ผู้กลืนกินความฝัน.."
+runestone_svalt_description_TW : "ในกาลก่อน เหล่าอสูรแคระเทาหวาดกลัวความมืดยามค่ำคืน เพราะสวัลท์ผู้กลืนกินฝันดักซุ่มอยู่. . เหล่าหมอผีใช้อาคมโลหิตเพื่อขับไล่เขาออกไปยังอาณาจักรของเซอเทอร์"
+mappin_svalt_TW : "สวัลท์"
+location_svalt : "โถงพิธีกรรม"
+gdancientshaman_TW : "หมอผีโบราณ"
+ancientroot_TW : "รากโบราณ"
+ancientshaman_speech1 : "เจ้ามนุษย์! แกกล้าดียังไงมาเหยียบย่ำพื้นที่ศักดิ์!"
+ancientshaman_speech2 : "ผู้กลืนกินความฝันต้องถูกจองจำให้ไกลจากแดนนี้!"
+
+##VRYKOLATHAS BOSS##
+trophy_vrykolathas_TW : "ถ้วยรางวัลวริคโคลาธาส"
+trophy_vrykolathas_description_TW : "มันจับจ้องเข้าไปในจิตใจของคุณ ให้คุณเคว้งคว้างในหมอกแห่งความว่างเปล่า"
+trophy_vrykolathas_TW_lore : "วริคโคลาธาสคือผู้เบิกทางของเทพีแห่งความตาย นักรบแห่งเฮลได้เก็บเกี่ยวดวงวิญญาณในเกียรติของนาง"
+boss_vrykolathas_TW : "วริคโคลาธาส"
+deadspeak_vrykolathas : "คุณได้ยินเสียงหลอกหลอนของพวกมันไหม? พวกมันเพรียกหาให้คุณเข้าร่วมกองทัพแห่งโลกใต้พิภพ!"
+vrykolathas_summon : "คุณอัญเชิญนักรบแห่งเฮล.."
+vrykolathas_defeat : "คุณปราบความมืดจากนิฟเฟลไฮม์ได้!"
+damnedsummon_TW : "วิญญาณถูกสาป"
+altar_vrykolathas_TW: "เตาไฟแห่งเฮล"
+altar_vrykolathas_description_TW: "ท้ายทายเทพีแห่งความตาย.."
+runestone_vrykolathas_TW : "วิญญาณร้าย"
+runestone_vrykolathas_description_TW : "อัปเปหิให้ปกครองโลกใต้พิภพแห่งนิฟเฟลไฮม์ เฮลสั่งการทัพปีศาจผีดิบนับอนันต์ ทัพผีร้ายของนางเร่รอนในท้องนภา เพื่อเสาะหาดวงวิญญาณผู้หลงทางมาเป็นบริวารของนาง"
+mappin_vrykolathas_TW : "วริคโคลาธาส"
+
+##BOSS LOCATION##
+vegvisir_TW : "เวกวีเซียร์"
+
+##SE EFFECTS##
+se_monstrum_pincer_TW : "ถูกตรึง"
+se_monstrum_scorpidsting_TW : "พิษแมงป่อง"
+se_monstrum_bitestun_TW : "ตรึง"
+se_monstrum_biteslow_TW : "อัมพาต"

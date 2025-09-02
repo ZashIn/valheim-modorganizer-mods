@@ -1,0 +1,167 @@
+##MOUNTS##
+mount_TW : "Monter"
+saddle_boar_TW : "Selle Razorback"
+saddle_boar_description_TW : "Utilisé pour monter un Razorback, ça va être un parcours chaotique !"
+saddle_bear_TW : "Selle d'ours"
+saddle_bear_description_TW : "Utilisé pour monter n'importe quel ours, tenez-le en laisse courte !"
+saddle_prowler_TW : "Selle de Rôdeur"
+saddle_prowler_description_TW : "Utilisé pour monter un Rôdeur, ne le saisissez pas par la crinière !"
+
+##FOOD##
+food_rottenelkmeat_TW : "Viande de Wapiti pourrissante"
+food_rottenelkmeat_description_TW : "Rien que son odeur vous retourne l'estomac."
+food_foxmeat_TW : "Viande de renard crue"
+food_foxmeat_description_TW : "Ce renard n'était pas plus malin que le fermier."
+food_cookedfoxmeat_TW : "Viande de renard cuite"
+food_cookedfoxmeat_description_TW : "Une petite bouchée est assez pour remplir l'estomac d'un homme !"
+food_foxjerky_TW : "Viande séchée de renard"
+food_foxjerky_description_TW : "Asaisonnée avec du miel afin que vous restiez alerte !"
+food_bearsteak_TW : "Viande d'ours crue"
+food_bearsteak_description_TW : "Un morceau de steak d'ours tendre"
+food_cookedbearsteak_TW : "Steak d'ours cuit"
+food_cookedbearsteak_description_TW : "Ajoutez du sel et du poivre et c'est un régal !"
+food_bearjerky_TW : "Viande séchée d'ours"
+food_bearjerky_description_TW : "Sucrée salée !"
+food_mixedgrill_TW : "Grill mixte"
+food_mixedgrill_description_TW : "Un rêve de viandard."
+food_sharkmeat_TW : "Viande de Bloodgill"
+food_sharkmeat_description_TW : "Une tranche de viande de requin salée et sanglante."
+food_cookedsharkmeat_TW : "Viande de Bloodgill cuite"
+food_cookedsharkmeat_description_TW : "Steak de la mer, vous ne pouvez vous empêcher de saliver."
+food_sharkfin_TW : "Aileron de Bloodgill"
+food_sharkfin_description_TW : "Vous pouvez faire une délicieuse soupe avec ça, peut-être même démarrer un marché menaçant pour les espèces..."
+food_sharkfinsoup_TW : "Soupe d'aileron de Bloodgill"
+food_sharkfinsoup_description_TW : "Soupe salée et épicée qui guérira tout rhume ! Vous imprègne d'une régénération d'eitr."
+food_sharkfinsoup_SE : "Sanguine"
+food_sharkfinsoup_SE_description : "Remplit votre ventre et augmente votre régénération d'eitr."
+
+##PIECES##
+piece_rug_blackbear_TW : "Tapis en peau d'ours noir"
+piece_rug_grizzlybear_TW : "Tapis en peau de grizzly"
+piece_rug_fox_TW : "Tapis en peau de renard"
+
+##ITEMS##
+mat_foxpelt_TW : "Peau de renard"
+mat_foxpeltpelt_description_TW : "Une magnifique peau provenant d'un renard majestueux."
+
+##MEADOWS TROPHIES##
+trophy_fox_TW : "Trophée de renard"
+trophy_fox_description_TW : "Pour attraper un renard, il faut être aussi rusé que lui."
+trophy_fox_TW_lore : "Les renards rôdent dans les prairies à la recherche d'une proie facile."
+##BLACK FOREST TROPHIES##
+trophy_blackbear_TW : "Trophée d'ours noir"
+trophy_blackbear_description_TW : "Un bon trophée pour effrayer les voleurs de pâtes."
+trophy_blackbear_TW_lore : "Les ours noirs chassent dans la forêt noire, ce sont de formidables chasseurs qui ne devraient pas être sous-estimés."
+trophy_razorback_TW : "Trophée de razorback"
+trophy_razorback_description_TW : "Ses défenses continuent de pousser jusqu'à ce qu'elle transpercent son cerveau."
+trophy_razorback_TW_lore : "Les fougueux razorbacks sont connus pour leur tendance à charger toute menace lorsqu'ils se sentent menacées."
+##SWAMP TROPHIES##
+trophy_crawler_TW : "Trophée de rampant"
+trophy_crawler_TW_lore : "Ces serpents monstrueux crachent du poison dans les yeux de leurs ennemis avant de les déchiqueter."
+trophy_crawler_description_TW : "Vous pouvez encore entendre ses cris monstrueux.."
+trophy_rottingelk_TW : "Trophée de Wapiti pourrissant"
+trophy_rottingelk_description_TW : "Vous pouvez voir ses yeux bouger, est-ce... est-ce que c'est un ver qui vient d'en sortir ?"
+trophy_rottingelk_TW_lore : "Ces Wapiti morts-vivants ont absorbé les émanations toxiques du marais dans leur fourrures."
+##MOUNTAINS TROPHIES##
+trophy_grizzlybear_TW : "Trophée de grizzly"
+trophy_grizzlybear_description_TW : "Un magnifique trophée méritant d'être monté dans une salle de festin."
+trophy_grizzlybear_TW_lore : "Le grizzly patrouille la chaîne de montagnes, tout les vikings ne sont pas assez chanceux pour survivre à cette rencontre."
+trophy_obsidiangolem_TW : "Trophée de golem d'obsidienne"
+trophy_obsidiangolem_description_TW : "La roche volcanique vitreuse est a la fois magnifique et tranchante."
+trophy_obsidiangolem_TW_lore : "Les golems d'obsidiennes transpercent leur proie à l'aide de leur appendices aiguisés."
+##PLAINS##
+trophy_prowler_TW : "Trophée de rôdeur"
+trophy_prowler_TW_lore : "Ils arpentent la savane à la recherche de proies, ces félins ont mérité leur titre légitime de 'Dernière ombre'."
+trophy_prowler_description_TW : "Mieux vaut ne pas laisser ce chat rayer votre canapé.."
+##OCEAN##
+trophy_shark_TW : "Trophée de Bloodgill"
+trophy_shark_description_TW : "Nous aurons besoin d'un plus gros bateau..."
+trophy_shark_TW_lore : "Une goutte de sang suffit à ces prédateurs monstrueux pour trouver leur proie."
+
+##MONSTERS##
+
+##MEADOWS##
+fox_TW : "Renard"
+foxcub_TW : "Renardeau"
+##BLACKFOREST##
+blackbear_TW : "Ours noir"
+blackbearcub_TW : "Ourson noir"
+razorback_TW : "Razorback"
+razorbackpiglet_TW : "Marcassin razorback"
+##SWAMP##
+crawler_TW : "Rampant"
+rottingelk_TW : "Wapiti pourrissant"
+##MOUNTAINS##
+grizzlybear_TW : "Grizzly"
+grizzlybearcub_TW : "Ourson grizzly"
+obsidiangolem_TW : "Golem d'obsidienne"
+##PLAINS##
+prowler_TW : "Rôdeur"
+prowlercub_TW : "petit rôdeur"
+##OCEAN##
+shark_TW : "Bloodgill"
+
+##BOSS LOCATION##
+vegvisir_TW : "Vegvisir"
+
+##ASMODEUS##
+trophy_asmodeus_TW : "trophée d'Asmodeus"
+trophy_asmodeus_description_TW : "Même dans les morts son regard est hypnotisant.. "
+trophy_asmodeus_TW_lore : "Asmodeus est un serviteur du dieu Loki, en tant que l'un des seigneurs vipères, il surveille les royaumes de Hel."
+
+boss_asmodeus_TW : "Asmodeus"
+deadspeak_asmodeus : "Maudit mortel.. que mon poisssson pourrisse dans tes veinessss !"
+asmodeus_summon : "Vous avez réveillé celui qui a faim.."
+asmodeus_defeat : "Vous avez vaincu l'affamé !"
+altar_asmodeus_TW : "Crâne de vipère antique"
+altar_asmodeus_description_TW: "Défiez celui qui a faim.."
+
+##VRYKOLATHAS##
+boss_vrykolathas_TW: "Vrykolathas"
+deadspeak_vrykolathas: "Entendez-vous leurs cris obsédants ? Ils vous supplient de les rejoindre dans le monde souterrain des mortels !"
+vrykolathas_summon: "Vous avez invoqué le champion de Hel.."
+vrykolathas_defeat: "Vous avez vaincu les ténèbres de Niflheim !"
+damnedsummon_TW: "Âme damnée"
+altar_vrykolathas_TW: "Le brasero de Hel"
+altar_vrykolathas_description_TW: "Défiez la déesse de la mort.."
+runestone_vrykolathas_TW: "Le fantôme"
+runestone_vrykolathas_description_TW: "Bannie pour régner sur le monde souterrain de Niflheim, Hel commande une force sans cesse croissante de monstres morts-vivants. Ses agents fantômes parcourent les cieux, à la recherche d'âmes perdues à revendiquer comme siennes."
+mappin_vrykolathas_TW: "Vrykolathas"
+helwraith_TW: "Hel spectre"
+trophy_vrykolathas_TW: "Trophée Vrykolathas"
+trophy_vrykolathas_description_TW: "Son regard parcourt votre esprit dans les brumes tourbillonnantes du vide."
+trophy_vrykolathas_TW_lore: "Vrykolathas est le signe avant-coureur dudéesse de la mort elle-même. La championne de Hel a récolté et réclamé de nombreuses âmes en ellehonneur."
+
+##SVALT##
+trophy_svalt_TW : "Trophée Svält"
+trophy_svalt_description_TW : "Le venin coule toujours du crâne du monstre."
+trophy_svalt_TW_lore : "Svält a été scellé au royaume de Surtr. Tranquant les nuits dans l'ancien monde, il était connu comme le dévoreur de rêves."
+boss_svalt_TW : "Svält"
+deadspeak_svalt : "Je peut goûter ta peur mortel.. Libère moi et nous mettrons a feu ce monde ensemble!"
+svalt_summon : "Vous avez libérer un ancien mal!"
+svalt_defeat : "Vous avez vaincue le dévoreur des rêves!"
+damnedskeleton_TW : "Faim brûlante"
+altar_svalt_TW: "Sceau de la magie du sang"
+altar_svalt_description_TW: "Libérer le dévoreur des rêves.."
+runestone_svalt_TW : "Le dévoreur des rêves.."
+runestone_svalt_description_TW : "Autrefois, les nains gris redoutaient de sortir au crépuscule alors que dans l'obscurité rôdait Svält, le dévoreur de rêves... Les chamans ont utillisé la magie du sang pour le bannir dans le royaume de Surtr."
+mappin_svalt_TW : "Svält"
+location_svalt : "Chambre de rituelle"
+gdancientshaman_TW : "Ancien shaman"
+ancientroot_TW : "Racine ancienne"
+ancientshaman_speech1 : "Comment osez-vous mettre le pied sur ces terres sacrées mortelles !"
+ancientshaman_speech2 : "Le dévoreur de rêves restera scellé loin de ce royaume !"
+
+##SE'S##
+se_monstrum_pincer_TW : "Pincer"
+se_monstrum_scorpidsting_TW : "Venin de scorpide"
+se_monstrum_bitestun_TW : "Épinglé"
+se_monstrum_biteslow_TW : "Estropié"
+se_monstrum_chompstun_TW : "Mâché"
+se_monstrum_rupturedslow_TW : "Déchiré"
+
+##RAVENS##
+BossStones_topic_TW : "Vous avez découvert un lieu de pouvoir !"
+BossStones_text_TW : "La magie ancienne réside ici, peut-être que les dieux vous accorderont leur bénédiction pour un sacrifice digne ?"
+
+
