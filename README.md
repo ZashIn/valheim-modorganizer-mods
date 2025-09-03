@@ -12,8 +12,8 @@
   git init
   git remote add origin https://github.com/ZashIn/Valheim-mod-pack.git
   git fetch
-  git reset origin/master
-  git checkout -t origin/master
+  git reset origin/main
+  git checkout -t origin/main
   ```
 - Restart MO
 - Select Weedheim profile
