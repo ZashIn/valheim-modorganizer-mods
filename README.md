@@ -8,6 +8,8 @@
 - Either download and extract a zip of this repo into the instance folder  
   or use git:
   ```sh
+  # git large file storage is required
+  git lfs install
   # Clone git repo in existing folder
   git init
   git remote add origin https://github.com/ZashIn/Valheim-mod-pack.git
