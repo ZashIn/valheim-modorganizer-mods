@@ -72,7 +72,7 @@ winhttp.dll
 ### Client mods
 - [AAA_Crafting](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/) v1.6.6
 - [Contents Within](https://nexusmods.com/valheim/mods/1838) v2.1.7
-- [Equip Wheel](https://nexusmods.com/valheim/mods/536) v1.5.3
+- [Equip Wheel](https://nexusmods.com/valheim/mods/536) v1.6 (fixed version from [here](https://github.com/LANCommander/ValheimWheels/releases/tag/v1.6.0))
 - [Equipment and Quick Slots](https://nexusmods.com/valheim/mods/92) v2.1.14
 - [Instant Teleportation](https://nexusmods.com/valheim/mods/2046) v1.0.1
 - [InstantMonsterDropFork](https://thunderstore.io/c/valheim/p/mchangrh/InstantMonsterDropFork/) v0.6
