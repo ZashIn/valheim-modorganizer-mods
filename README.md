@@ -12,7 +12,7 @@
   git lfs install
   # Clone git repo in existing folder
   git init
-  git remote add origin git@github.com:ZashIn/valheim-modorganizer-mods.git
+  git remote add origin https://github.com/ZashIn/valheim-modorganizer-mods.git
   git fetch
   git reset origin/main
   git checkout -t origin/main
