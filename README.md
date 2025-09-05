@@ -14,8 +14,10 @@
   git init
   git remote add origin https://github.com/ZashIn/valheim-modorganizer-mods.git
   git fetch
-  git reset origin/main
   git checkout -t origin/main
+  # Alternative to checkout, when used in an existing instance:
+  #git reset origin/main
+  # add --force to overwrite existing files
   ```
 - Restart MO
 - Select Weedheim profile
