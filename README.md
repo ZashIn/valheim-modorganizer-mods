@@ -83,4 +83,4 @@ winhttp.dll
 - [Repair All](https://nexusmods.com/valheim/mods/26) v1.3
 - [Tag Connected Portals](https://nexusmods.com/valheim/mods/2828) v0.1.3
 - [Valheim Recycle](https://nexusmods.com/valheim/mods/425) v4.0
-
+- [Crafting Filter](https://nexusmods.com/valheim/mods/1219) v0.10
