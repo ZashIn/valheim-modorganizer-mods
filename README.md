@@ -64,6 +64,7 @@ winhttp.dll
 - [Monstrum Deep North](https://thunderstore.io/c/valheim/p/Therzie/MonstrumDeepNorth/) v2.0.6
 - [Custom Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) v1.8
 - [Monstrum Raids](https://thunderstore.io/c/valheim/p/JewelHeim/Monstrum_Raids/) v1.0
+- [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
 
 ### Client mods
 - [AAA_Crafting](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/) v1.6.6
@@ -80,5 +81,3 @@ winhttp.dll
 - [Tag Connected Portals](https://nexusmods.com/valheim/mods/2828) v0.1.3
 - [Valheim Recycle](https://nexusmods.com/valheim/mods/425) v4.0
 
-### Bugged (disabled)
-- [ValheimRAFT](https://nexusmods.com/valheim/mods/1136) v1.4.9
