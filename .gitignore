@@ -1,0 +1,17 @@
+# Ignore all root files and folders
+/*
+
+# Include these files and folder explicitly
+!.gitignore
+!.gitattributes
+!.github
+!README.md
+!mods
+!profiles
+
+# Include only modlist.txt from profiles
+profiles/*/*
+!profiles/*/modlist.txt
+
+# Exclude user configs (use generated defaults). Track them explicitly via git add -f <file>.
+mods/*/BepInEx/config/*.cfg
