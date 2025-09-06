@@ -68,6 +68,7 @@ winhttp.dll
 - [Monstrum Raids](https://thunderstore.io/c/valheim/p/JewelHeim/Monstrum_Raids/) v1.0
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
+- [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.19.1
 
 ### Client mods
 - [AAA_Crafting](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/) v1.6.6

@@ -18,15 +18,18 @@
 +Contents Within
 +AAA_Crafting
 -Client_separator
-+ValheimRAFT
-+Teleport Everything
-+Multi User Chest
 +Monstrum Raids
 +Custom Raids
 +Monstrum Deep North
 +WarfareFireAndIce
 +Monstrum
 +Warfare
++VALKEA
+-Heavy Server mods_separator
++Plant Everything
++ValheimRAFT
++Teleport Everything
++Multi User Chest
 +Useful Trophies Again
 +Valharvest
 +BoneAppetit
@@ -34,7 +37,6 @@
 +Skyheim - Valheim Magic
 +Epic Loot
 +PlanBuild - Blueprint Rune
-+VALKEA
 +Wisdom
 +Weedheim
 +ValheimLegendsFork_
