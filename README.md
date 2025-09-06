@@ -85,6 +85,8 @@ winhttp.dll
 - [Tag Connected Portals](https://nexusmods.com/valheim/mods/2828) v0.1.3
 - [Valheim Recycle](https://nexusmods.com/valheim/mods/425) v4.0
 - [Crafting Filter](https://nexusmods.com/valheim/mods/1219) v0.10
+- [Clock](https://nexusmods.com/valheim/mods/85) v1.7
 
 ## Dev notes
 Config files (`*.cfg`) are by default ignored by `.gitignore` to use generated defaults, use `git add -f <file>` to add them explicitly.
+
