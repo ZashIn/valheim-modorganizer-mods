@@ -3,6 +3,7 @@
 -Upgrade World
 -Server devcommands
 -admin_separator
++Quiet Portals
 +Clock
 +Crafting Filter
 +Valheim Recycle
