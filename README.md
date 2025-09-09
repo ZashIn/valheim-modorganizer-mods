@@ -37,6 +37,31 @@ start_server_bepinex.sh
 winhttp.dll
 ```
 
+### Without Mod Organizer
+- Checkout / download repo
+- use included script to deploy files to game dir:
+  `python copy_to_game_dir.py [--hardlink] <game_dir_path>`
+  - copies/updates only enabled mods in `profiles/Weedheim/modlist.txt` (by default)
+  - does **not** remove disabled or other existing files
+
+```sh
+usage: copy_to_game_dir.py [-h] [-m MODSDIR] [-l] [-e EXCLUDE [EXCLUDE ...]] target_dir [modlist]
+
+Copy Mod Organizer mod files to game dir
+
+positional arguments:
+  target_dir            target (game) directory
+  modlist               modlist.txt from MO, with +enabled and -disabled mods
+
+options:
+  -h, --help            show this help message and exit
+  -m MODSDIR, --modsdir MODSDIR
+                        dir to (MOs) mods directory
+  -l, --hardlink        use hardlinks instead of copies
+  -e EXCLUDE [EXCLUDE ...], --exclude EXCLUDE [EXCLUDE ...]
+                        exclude mod file patterns
+```
+
 ## Modlist
 
 ### Base dependencies
@@ -86,7 +111,8 @@ winhttp.dll
 - [Valheim Recycle](https://nexusmods.com/valheim/mods/425) v4.0
 - [Crafting Filter](https://nexusmods.com/valheim/mods/1219) v0.10
 - [Clock](https://nexusmods.com/valheim/mods/85) v1.7
+- [Quiet Portals](https://nexusmods.com/valheim/mods/1981) v0.1.6
+- [DudeWheresMyPortal](https://thunderstore.io/c/valheim/p/oathorse/DudeWheresMyPortal/) v0.1.3
 
 ## Dev notes
 Config files (`*.cfg`) are by default ignored by `.gitignore` to use generated defaults, use `git add -f <file>` to add them explicitly.
-
