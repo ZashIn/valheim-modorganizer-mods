@@ -68,7 +68,7 @@ winhttp.dll
 - [Monstrum Raids](https://thunderstore.io/c/valheim/p/JewelHeim/Monstrum_Raids/) v1.0
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
-- [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.19.1
+- [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.20
 
 ### Client mods
 - [AAA_Crafting](https://thunderstore.io/c/valheim/p/Azumatt/AAA_Crafting/) v1.6.6
@@ -82,7 +82,7 @@ winhttp.dll
 - [Pin Assistant](https://nexusmods.com/valheim/mods/2531) v1.8.1
 - [Quick Stack - Store - Sort - Trash - Restock](https://nexusmods.com/valheim/mods/2094) v1.4.13
 - [Repair All](https://nexusmods.com/valheim/mods/26) v1.3
-- [Tag Connected Portals](https://nexusmods.com/valheim/mods/2828) v0.1.3
+- [Tag Connected Portals](https://nexusmods.com/valheim/mods/2828) v0.1.4
 - [Valheim Recycle](https://nexusmods.com/valheim/mods/425) v4.0
 - [Crafting Filter](https://nexusmods.com/valheim/mods/1219) v0.10
 - [Clock](https://nexusmods.com/valheim/mods/85) v1.7
