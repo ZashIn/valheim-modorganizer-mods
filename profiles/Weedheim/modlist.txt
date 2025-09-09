@@ -3,6 +3,7 @@
 -Upgrade World
 -Server devcommands
 -admin_separator
++DudeWheresMyPortal
 +Quiet Portals
 +Clock
 +Crafting Filter
