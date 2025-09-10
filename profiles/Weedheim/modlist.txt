@@ -3,6 +3,7 @@
 -Upgrade World
 -Server devcommands
 -admin_separator
++First person view
 +Build Camera Custom Hammers Edition
 +DudeWheresMyPortal
 +Quiet Portals
