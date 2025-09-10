@@ -113,6 +113,7 @@ options:
 - [Clock](https://nexusmods.com/valheim/mods/85) v1.7
 - [Quiet Portals](https://nexusmods.com/valheim/mods/1981) v0.1.6
 - [DudeWheresMyPortal](https://thunderstore.io/c/valheim/p/oathorse/DudeWheresMyPortal/) v0.1.3
+- [Build Camera Custom Hammers Edition](https://thunderstore.io/c/valheim/p/Azumatt/Build_Camera_Custom_Hammers_Edition/) v1.2.7
 
 ## Dev notes
 Config files (`*.cfg`) are by default ignored by `.gitignore` to use generated defaults, use `git add -f <file>` to add them explicitly.
